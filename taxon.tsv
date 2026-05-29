@@ -1,0 +1,1363 @@
+ID	scientificName	kingdom	phylum	class	order	family	genus	rank
+1	Equus asinus	Animalia	Chordata	Mammalia	Perissodactyla	Equidae	Equus	species
+2	Canis familiaris	Animalia	Chordata	Mammalia	Carnivora	Canidae	Canis	species
+3	Felis catus	Animalia	Chordata	Mammalia	Carnivora	Felidae	Felis	species
+4	Sus scrofa	Animalia	Chordata	Mammalia	Artiodactyla	Suidae	Sus	species
+6	Cervus elaphus	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	Cervus	species
+7	Capreolus capreolus	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	Capreolus	species
+8	Dama dama	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	Dama	species
+9	Alces alces	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	Alces	species
+10	Rangifer tarandus	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	Rangifer	species
+11	Bison priscus	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bison	species
+12	Bos primigenius	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	species
+14	Ursus arctos	Animalia	Chordata	Mammalia	Carnivora	Ursidae	Ursus	species
+15	Meles meles	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Meles	species
+16	Lutra lutra	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Lutra	species
+17	Martes martes	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Martes	species
+18	Martes foina	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Martes	species
+19	Martes	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Martes	genus
+20	Mustela erminea	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Mustela	species
+21	Mustela nivalis	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Mustela	species
+22	Mustelidae	Animalia	Chordata	Mammalia	Carnivora	Mustelidae		family
+24	Felis silvestris	Animalia	Chordata	Mammalia	Carnivora	Felidae	Felis	species
+25	Lynx lynx	Animalia	Chordata	Mammalia	Carnivora	Felidae	Lynx	species
+26	Vulpes vulpes	Animalia	Chordata	Mammalia	Carnivora	Canidae	Vulpes	species
+27	Canis lupus	Animalia	Chordata	Mammalia	Carnivora	Canidae	Canis	species
+28	Talpa europaea	Animalia	Chordata	Mammalia	Insectivora	Talpidae	Talpa	species
+29	Erinaceus europaeus	Animalia	Chordata	Mammalia	Insectivora	Erinaceidae	Erinaceus	species
+30	Sciurus vulgaris	Animalia	Chordata	Mammalia	Rodentia	Sciuridae	Sciurus	species
+31	Castor fiber	Animalia	Chordata	Mammalia	Rodentia	Castoridae	Castor	species
+32	Oryctolagus cuniculus	Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	Oryctolagus	species
+33	Lepus europaeus	Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	Lepus	species
+34	Leporidae	Animalia	Chordata	Mammalia	Lagomorpha	Leporidae		family
+35	Phoca vitulina	Animalia	Chordata	Mammalia	Carnivora	Phocidae	Phoca	species
+36	Pusa hispida	Animalia	Chordata	Mammalia	Carnivora	Phocidae	Pusa	species
+37	Halichoerus grypus	Animalia	Chordata	Mammalia	Carnivora	Phocidae	Halichoerus	species
+38	Tursiops truncatus	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Tursiops	species
+39	Phocoena phocoena	Animalia	Chordata	Mammalia	Cetacea	Phocoenidae	Phocoena	species
+40	Physeter macrocephalus	Animalia	Chordata	Mammalia	Cetacea	Physeteridae	Physeter	species
+41	Balaenoptera physalus	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Balaenoptera	species
+42	Balaenoptera borealis	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Balaenoptera	species
+43	Megaptera novaeangliae	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Megaptera	species
+44	Eubalaena glacialis	Animalia	Chordata	Mammalia	Cetacea	Balaenidae	Eubalaena	species
+45	Balaena mysticetus	Animalia	Chordata	Mammalia	Cetacea	Balaenidae	Balaena	species
+46	Cetacea	Animalia	Chordata	Mammalia	Cetacea			order
+47	Sorex araneus	Animalia	Chordata	Mammalia	Insectivora	Soricidae	Sorex	species
+48	Sorex minutus	Animalia	Chordata	Mammalia	Insectivora	Soricidae	Sorex	species
+49	Neomys fodiens	Animalia	Chordata	Mammalia	Insectivora	Soricidae	Neomys	species
+50	Crocidura leucodon	Animalia	Chordata	Mammalia	Insectivora	Soricidae	Crocidura	species
+51	Crocidura russula	Animalia	Chordata	Mammalia	Insectivora	Soricidae	Crocidura	species
+52	Eliomys quercinus	Animalia	Chordata	Mammalia	Rodentia	Gliridae	Eliomys	species
+53	Muscardinus avellanarius	Animalia	Chordata	Mammalia	Rodentia	Gliridae	Muscardinus	species
+54	Cricetus cricetus	Animalia	Chordata	Mammalia	Rodentia	Cricetidae	Cricetus	species
+55	Clethrionomys glareolus	Animalia	Chordata	Mammalia	Rodentia	Arvicolidae	Clethrionomys	species
+56	Microtus agrestis	Animalia	Chordata	Mammalia	Rodentia	Arvicolidae	Microtus	species
+57	Microtus arvalis	Animalia	Chordata	Mammalia	Rodentia	Arvicolidae	Microtus	species
+58	Microtus oeconomus	Animalia	Chordata	Mammalia	Rodentia	Arvicolidae	Microtus	species
+59	Arvicola terrestris	Animalia	Chordata	Mammalia	Rodentia	Arvicolidae	Arvicola	species
+60	Pitymys subterraneus	Animalia	Chordata	Mammalia	Rodentia	Arvicolidae	Pitymys	species
+61	Apodemus sylvaticus	Animalia	Chordata	Mammalia	Rodentia	Muridae	Apodemus	species
+62	Apodemus flavicollis	Animalia	Chordata	Mammalia	Rodentia	Muridae	Apodemus	species
+63	Micromys minutus	Animalia	Chordata	Mammalia	Rodentia	Muridae	Micromys	species
+64	Rattus rattus	Animalia	Chordata	Mammalia	Rodentia	Muridae	Rattus	species
+65	Rattus norvegicus	Animalia	Chordata	Mammalia	Rodentia	Muridae	Rattus	species
+66	Mus musculus	Animalia	Chordata	Mammalia	Rodentia	Muridae	Mus	species
+68	Chiroptera	Animalia	Chordata	Mammalia	Chiroptera			order
+69	Homo sapiens	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	species
+73	Mammalia	Animalia	Chordata	Mammalia				class
+75	Gallus gallus domesticus	Animalia	Chordata	Aves	Galliformes	Phasianidae	Gallus	subspecies
+76	Pavo cristata	Animalia	Chordata	Aves	Galliformes	Phasianidae	Pavo	species
+77	Meleagris gallopavo	Animalia	Chordata	Aves	Galliformes	Phasianidae	Meleagris	species
+78	Anser anser domesticus	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anser	subspecies
+79	Anas platyrhynchos domesticus	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anas	subspecies
+80	Columba livia	Animalia	Chordata	Aves	Columbiformes	Columbidae	Columba	species
+85	Gavia stellata	Animalia	Chordata	Aves	Gaviiformes	Gaviidae	Gavia	species
+86	Gavia arctica	Animalia	Chordata	Aves	Gaviiformes	Gaviidae	Gavia	species
+87	Procellariidae	Animalia	Chordata	Aves	Procellariiformes	Procellariidae		family
+88	Sula bassana	Animalia	Chordata	Aves	Procellariiformes	Sulidae	Sula	species
+89	Pelecanus crispus	Animalia	Chordata	Aves	Pelecaniformes	Pelecanidae	Pelecanus	species
+90	Phalacrocorax carbo	Animalia	Chordata	Aves	Pelecaniformes	Phalacrocoracidae	Phalacrocorax	species
+91	Botaurus stellaris	Animalia	Chordata	Aves	Ciconiiformes	Ardeidae	Botaurus	species
+92	Egretta alba	Animalia	Chordata	Aves	Ciconiiformes	Ardeidae	Egretta	species
+93	Ardea cinerea	Animalia	Chordata	Aves	Ciconiiformes	Ardeidae	Ardea	species
+94	Platalea leucorodia	Animalia	Chordata	Aves	Ciconiiformes	Threskiornithidae	Platalea	species
+95	Ciconia nigra	Animalia	Chordata	Aves	Ciconiiformes	Ciconiidae	Ciconia	species
+96	Ciconia ciconia	Animalia	Chordata	Aves	Ciconiiformes	Ciconiidae	Ciconia	species
+97	Cygnus olor	Animalia	Chordata	Aves	Anseriformes	Anatidae	Cygnus	species
+98	Cygnus cygnus	Animalia	Chordata	Aves	Anseriformes	Anatidae	Cygnus	species
+100	Cygnus bewickii	Animalia	Chordata	Aves	Anseriformes	Anatidae	Cygnus	species
+101	Cygnus	Animalia	Chordata	Aves	Anseriformes	Anatidae	Cygnus	genus
+102	Anser fabalis	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anser	species
+103	Anser brachyrhynchus	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anser	species
+104	Anser albifrons	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anser	species
+105	Anser anser	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anser	species
+106	Anser	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anser	genus
+107	Branta leucopsis	Animalia	Chordata	Aves	Anseriformes	Anatidae	Branta	species
+108	Branta bernicla	Animalia	Chordata	Aves	Anseriformes	Anatidae	Branta	species
+109	Tadorna tadorna	Animalia	Chordata	Aves	Anseriformes	Anatidae	Tadorna	species
+110	Anas penelope	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anas	species
+111	Anas strepera	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anas	species
+112	Anas crecca	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anas	species
+113	Anas querquedula	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anas	species
+115	Anas platyrhynchos	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anas	species
+116	Anas acuta	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anas	species
+117	Anas clypeata	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anas	species
+118	Netta rufina	Animalia	Chordata	Aves	Anseriformes	Anatidae	Netta	species
+119	Aythya ferina	Animalia	Chordata	Aves	Anseriformes	Anatidae	Aythya	species
+120	Aythya marila	Animalia	Chordata	Aves	Anseriformes	Anatidae	Aythya	species
+122	Aythya fuligula	Animalia	Chordata	Aves	Anseriformes	Anatidae	Aythya	species
+123	Aythya	Animalia	Chordata	Aves	Anseriformes	Anatidae	Aythya	genus
+124	Somateria mollissima	Animalia	Chordata	Aves	Anseriformes	Anatidae	Somateria	species
+125	Clangula hyemalis	Animalia	Chordata	Aves	Anseriformes	Anatidae	Clangula	species
+126	Melanitta nigra	Animalia	Chordata	Aves	Anseriformes	Anatidae	Melanitta	species
+127	Melanitta fusca	Animalia	Chordata	Aves	Anseriformes	Anatidae	Melanitta	species
+128	Bucephala clangula	Animalia	Chordata	Aves	Anseriformes	Anatidae	Bucephala	species
+129	Mergus serrator	Animalia	Chordata	Aves	Anseriformes	Anatidae	Mergus	species
+130	Mergus merganser	Animalia	Chordata	Aves	Anseriformes	Anatidae	Mergus	species
+131	Anatinae	Animalia	Chordata	Aves	Anseriformes	Anatidae		subfamily
+132	Haliaeetus albicilla	Animalia	Chordata	Aves	Falconiformes	Accipitridae	Haliaeetus	species
+134	Aegypius monachus	Animalia	Chordata	Aves	Falconiformes	Accipitridae	Aegypius	species
+135	Accipiter gentilis	Animalia	Chordata	Aves	Falconiformes	Accipitridae	Accipiter	species
+136	Accipiter nisus	Animalia	Chordata	Aves	Falconiformes	Accipitridae	Accipiter	species
+137	Buteo buteo	Animalia	Chordata	Aves	Falconiformes	Accipitridae	Buteo	species
+138	Accipitridae	Animalia	Chordata	Aves	Falconiformes	Accipitridae		subfamily
+139	Falco tinnunculus	Animalia	Chordata	Aves	Falconiformes	Falconidae	Falco	species
+140	Falco subbuteo	Animalia	Chordata	Aves	Falconiformes	Falconidae	Falco	species
+142	Falco peregrinus	Animalia	Chordata	Aves	Falconiformes	Falconidae	Falco	species
+143	Falco	Animalia	Chordata	Aves	Falconiformes	Falconidae	Falco	suborder
+144	Lyrurus tetrix	Animalia	Chordata	Aves	Galliformes	Phasianidae	Lyrurus	species
+145	Perdix perdix	Animalia	Chordata	Aves	Galliformes	Phasianidae	Perdix	species
+146	Coturnix coturnix	Animalia	Chordata	Aves	Galliformes	Phasianidae	Coturnix	species
+147	Fulica atra	Animalia	Chordata	Aves	Galliformes	Phasianidae	Fulica	species
+148	Grus grus	Animalia	Chordata	Aves	Gruiformes	Gruidae	Grus	species
+149	Haematopus ostralegus	Animalia	Chordata	Aves	Charadriiformes	Haematopodidae	Haematopus	species
+150	Charadrius hiaticula	Animalia	Chordata	Aves	Charadriiformes	Charadriidae	Charadrius	species
+151	Pluvialis apricarius	Animalia	Chordata	Aves	Charadriiformes	Charadriidae	Pluvialis	species
+152	Pluvialis	Animalia	Chordata	Aves	Charadriiformes	Charadriidae	Pluvialis	genus
+153	Vanellus vanellus	Animalia	Chordata	Aves	Charadriiformes	Charadriidae	Vanellus	species
+155	Calidris alpina	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Calidris	species
+156	Calidris canutus	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Calidris	species
+157	Calidris	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Calidris	genus
+158	Philomachus pugnax	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Philomachus	species
+159	Lymnocryptes minimus	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Lymnocryptes	species
+160	Gallinago gallinago	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Gallinago	species
+161	Gallinago media	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Gallinago	species
+162	Scolopax rusticola	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Scolopax	species
+163	Limosa limosa	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Limosa	species
+164	Limosa lapponica	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Limosa	species
+165	Limosa	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Limosa	genus
+166	Numenius arquata	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Numenius	species
+167	Tringa totanus	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Tringa	species
+168	Tringa	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Tringa	genus
+170	Larus fuscus	Animalia	Chordata	Aves	Charadriiformes	Laridae	Larus	species
+171	Larus argentatus	Animalia	Chordata	Aves	Charadriiformes	Laridae	Larus	species
+172	Larus marinus	Animalia	Chordata	Aves	Charadriiformes	Laridae	Larus	species
+173	Larus	Animalia	Chordata	Aves	Charadriiformes	Laridae	Larus	genus
+174	Rissa tridactyla	Animalia	Chordata	Aves	Charadriiformes	Laridae	Rissa	species
+175	Sterna hirundo	Animalia	Chordata	Aves	Charadriiformes	Sternidae	Sterna	species
+176	Sterna	Animalia	Chordata	Aves	Charadriiformes	Sternidae	Sterna	genus
+177	Uria aalge	Animalia	Chordata	Aves	Charadriiformes	Alcidae	Uria	species
+178	Pinguinus impennis	Animalia	Chordata	Aves	Charadriiformes	Alcidae	Pinguinus	species
+179	Columba palumbus	Animalia	Chordata	Aves	Columbiformes	Columbidae	Columba	species
+180	Columba	Animalia	Chordata	Aves	Columbiformes	Columbidae	Columba	genus
+181	Bubo bubo	Animalia	Chordata	Aves	Strigiformes	Strigidae	Bubo	species
+182	Athene noctua	Animalia	Chordata	Aves	Strigiformes	Strigidae	Athene	species
+183	Strix aluco	Animalia	Chordata	Aves	Strigiformes	Strigidae	Strix	species
+184	Asio otus	Animalia	Chordata	Aves	Strigiformes	Strigidae	Asio	species
+185	Asio flammeus	Animalia	Chordata	Aves	Strigiformes	Strigidae	Asio	species
+186	Dendrocopos major	Animalia	Chordata	Aves	Piciformes	Picidae	Dendrocopos	species
+187	Turdus pilaris	Animalia	Chordata	Aves	Passeriformes	Turdidae	Turdus	species
+188	Turdus philomelos	Animalia	Chordata	Aves	Passeriformes	Turdidae	Turdus	species
+189	Turdus	Animalia	Chordata	Aves	Passeriformes	Turdidae	Turdus	genus
+190	Garrulus glandarius	Animalia	Chordata	Aves	Passeriformes	Corvidae	Garrulus	species
+191	Pica pica	Animalia	Chordata	Aves	Passeriformes	Corvidae	Pica	species
+192	Corvus monedula	Animalia	Chordata	Aves	Passeriformes	Corvidae	Corvus	species
+193	Corvus frugilegus	Animalia	Chordata	Aves	Passeriformes	Corvidae	Corvus	species
+194	Corvus corone	Animalia	Chordata	Aves	Passeriformes	Corvidae	Corvus	species
+196	Corvus corax	Animalia	Chordata	Aves	Passeriformes	Corvidae	Corvus	species
+197	Corvus	Animalia	Chordata	Aves	Passeriformes	Corvidae	Corvus	genus
+198	Sturnus vulgaris	Animalia	Chordata	Aves	Passeriformes	Sturnidae	Sturnus	species
+199	Passer domesticus	Animalia	Chordata	Aves	Passeriformes	Passeridae	Passer	species
+200	Fringillidae	Animalia	Chordata	Aves	Passeriformes	Fringillidae		family
+201	Passeriformes	Animalia	Chordata	Aves	Passeriformes			order
+202	Aves	Animalia	Chordata	Aves				class
+204	Anguilla anguilla	Animalia	Chordata	Osteichthyes	Anguilliformes	Anguillidae	Anguilla	species
+205	Cyprinidae	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae		family
+206	Abramis brama	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Abramis	species
+207	Abramis bjoerkna	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Abramis	species
+209	Aspius aspius	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Aspius	species
+210	Alburnus alburnus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Alburnus	species
+211	Barbus barbus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Barbus	species
+212	Carassius carassius	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Carassius	species
+213	Ctenopharyngodon idella	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Ctenopharyngodon	species
+214	Chondrostoma nasus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Chondrostoma	species
+215	Cyprinus carpio	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Cyprinus	species
+216	Gobio gobio	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Gobio	species
+217	Leucaspius delineatus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Leucaspius	species
+218	Leuciscus cephalus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Leuciscus	species
+219	Leuciscus idus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Leuciscus	species
+221	Leuciscus leuciscus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Leuciscus	species
+222	Phoxinus phoxinus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Phoxinus	species
+223	Rhodeus sericeus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Rhodeus	species
+224	Rutilus rutilus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Rutilus	species
+225	Rutilus erythrophthalmus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Rutilus	species
+226	Tinca tinca	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Tinca	species
+227	Cobitis taenia	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Cobitis	species
+228	Noemacheilus barbatulus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cobitididae	Noemacheilus	species
+229	Silurus glanis	Animalia	Chordata	Osteichthyes	Siluriformes	Siluridae	Silurus	species
+230	Esox lucius	Animalia	Chordata	Osteichthyes	Salmoniformes	Esocidae	Esox	species
+231	Thymallus thymallus	Animalia	Chordata	Osteichthyes	Salmoniformes	Salmonidae	Thymallus	species
+232	Lota lota	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Lota	species
+233	Gasterosteus aculeatus	Animalia	Chordata	Osteichthyes	Gasterosteiformes	Gasterosteidae	Gasterosteus	species
+234	Pungitius pungitius	Animalia	Chordata	Osteichthyes	Gasterosteiformes	Gasterosteidae	Pungitius	species
+235	Cottus gobio	Animalia	Chordata	Osteichthyes	Scorpaeniformes	Cottidae	Cottus	species
+236	Gymnocephalus cernua	Animalia	Chordata	Osteichthyes	Perciformes	Percidae	Gymnocephalus	species
+237	Perca fluviatilis	Animalia	Chordata	Osteichthyes	Perciformes	Percidae	Perca	species
+238	Stizostedion lucioperca	Animalia	Chordata	Osteichthyes	Perciformes	Percidae	Stizostedion	species
+239	Pomatoschistus microps	Animalia	Chordata	Osteichthyes	Perciformes	Gobiidae	Pomatoschistus	species
+240	Acipenser sturio	Animalia	Chordata	Osteichthyes	Acipenseriformes	Acipenseridae	Acipenser	species
+241	Alosa alosa	Animalia	Chordata	Osteichthyes	Clupeiformes	Clupeidae	Alosa	species
+242	Alosa fallax	Animalia	Chordata	Osteichthyes	Clupeiformes	Clupeidae	Alosa	species
+244	Osmerus eperlanus	Animalia	Chordata	Osteichthyes	Salmoniformes	Osmeridae	Osmerus	species
+245	Salmonidae	Animalia	Chordata	Osteichthyes	Salmoniformes	Salmonidae		family
+246	Coregonus lavaretus	Animalia	Chordata	Osteichthyes	Salmoniformes	Salmonidae	Coregonus	species
+247	Coregonus oxyrinchus	Animalia	Chordata	Osteichthyes	Salmoniformes	Salmonidae	Coregonus	species
+248	Salmo salar	Animalia	Chordata	Osteichthyes	Salmoniformes	Salmonidae	Salmo	species
+249	Salmo trutta	Animalia	Chordata	Osteichthyes	Salmoniformes	Salmonidae	Salmo	species
+251	Salmo gairdneri	Animalia	Chordata	Osteichthyes	Salmoniformes	Salmonidae	Salmo	species
+252	Scyliorhinus canicula	Animalia	Chordata	Chondrichthyes	Selachii	Scyliorhinidae	Scyliorhinus	species
+253	Triakidae	Animalia	Chordata	Chondrichthyes	Selachii	Triakidae		family
+254	Galeorhinus galeus	Animalia	Chordata	Chondrichthyes	Selachii	Triakidae	Galeorhinus	species
+255	Mustelus mustelus	Animalia	Chordata	Chondrichthyes	Selachii	Triakidae	Mustelus	species
+256	Mustelus asterias	Animalia	Chordata	Chondrichthyes	Selachii	Triakidae	Mustelus	species
+257	Squalus acanthias	Animalia	Chordata	Chondrichthyes	Selachii	Squalidae	Squalus	species
+258	Squatina squatina	Animalia	Chordata	Chondrichthyes	Selachii	Squatinidae	Squatina	species
+259	Rajidae	Animalia	Chordata	Chondrichthyes	Rajiformes	Rajidae		family
+260	Raja batis	Animalia	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	species
+261	Raja clavata	Animalia	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	species
+262	Raja montagui	Animalia	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	species
+263	Dasyatis pastinaca	Animalia	Chordata	Chondrichthyes	Rajiformes	Dasyatidae	Dasyatis	species
+264	Conger conger	Animalia	Chordata	Osteichthyes	Anguilliformes	Congridae	Conger	species
+265	Clupeidae	Animalia	Chordata	Osteichthyes	Clupeiformes	Clupeidae		family
+266	Clupea harengus	Animalia	Chordata	Osteichthyes	Clupeiformes	Clupeidae	Clupea	species
+267	Sprattus sprattus	Animalia	Chordata	Osteichthyes	Clupeiformes	Clupeidae	Sprattus	species
+268	Sardina pilchardus	Animalia	Chordata	Osteichthyes	Clupeiformes	Clupeidae	Sardina	species
+269	Engraulis encrasicolus	Animalia	Chordata	Osteichthyes	Clupeiformes	Clupeidae	Engraulis	species
+270	Gadidae	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae		family
+271	Gadus morhua	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Gadus	species
+272	Merlangius merlangus	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Merlangius	species
+273	Melanogrammus aeglefinus	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Melanogrammus	species
+274	Pollachius pollachius	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Pollachius	species
+275	Pollachius virens	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Pollachius	species
+276	Trisopterus luscus	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Trisopterus	species
+277	Trisopterus minutus	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Trisopterus	species
+278	Ciliata mustela	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Ciliata	species
+279	Molva molva	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Molva	species
+280	Merluccius merluccius	Animalia	Chordata	Osteichthyes	Gadiformes	Merlucciidae	Merluccius	species
+281	Lophius piscatorius	Animalia	Chordata	Osteichthyes	Batrachoidiformes	Lophiidae	Lophius	species
+282	Belone belone	Animalia	Chordata	Osteichthyes	Cyprinodontiformes	Belonidae	Belone	species
+283	Atherina presbyter	Animalia	Chordata	Osteichthyes	Atheriniformes	Atherinidae	Atherina	species
+284	Atherina boyeri	Animalia	Chordata	Osteichthyes	Atheriniformes	Atherinidae	Atherina	species
+285	Spinachia spinachia	Animalia	Chordata	Osteichthyes	Gasterosteiformes	Gasterosteidae	Spinachia	species
+286	Syngnathus acus	Animalia	Chordata	Osteichthyes	Syngnathiformes	Syngnathidae	Syngnathus	species
+287	Eutrigla gurnardus	Animalia	Chordata	Osteichthyes	Scorpaeniformes	Triglidae	Eutrigla	species
+288	Chelidonichthys lucerna	Animalia	Chordata	Osteichthyes	Scorpaeniformes	Triglidae	Chelidonichthys	species
+289	Trigloporus lastoviza	Animalia	Chordata	Osteichthyes	Scorpaeniformes	Triglidae	Trigloporus	species
+290	Myoxocephalus scorpius	Animalia	Chordata	Osteichthyes	Scorpaeniformes	Cottidae	Myoxocephalus	species
+291	Enophrys bubalis	Animalia	Chordata	Osteichthyes	Scorpaeniformes	Cottidae	Enophrys	species
+292	Agonus cataphractus	Animalia	Chordata	Osteichthyes	Scorpaeniformes	Agonidae	Agonus	species
+293	Cyclopterus lumpus	Animalia	Chordata	Osteichthyes	Scorpaeniformes	Cyclopteridae	Cyclopterus	species
+294	Dicentrarchus labrax	Animalia	Chordata	Osteichthyes	Perciformes	Percichtthidae	Dicentrarchus	species
+295	Trachurus trachurus	Animalia	Chordata	Osteichthyes	Perciformes	Carangidae	Trachurus	species
+296	Pagellus bogaraveo	Animalia	Chordata	Osteichthyes	Perciformes	Sparidae	Pagellus	species
+297	Spondyliosoma cantharus	Animalia	Chordata	Osteichthyes	Perciformes	Sparidae	Spondyliosoma	species
+298	Argyrosomus regius	Animalia	Chordata	Osteichthyes	Perciformes	Sciaenidae	Argyrosomus	species
+299	Mullus surmuletus	Animalia	Chordata	Osteichthyes	Pectiformes	Mullidae	Mullus	species
+300	Mugilidae	Animalia	Chordata	Osteichthyes	Perciformes	Mugilidae		family
+301	Chelon labrosus	Animalia	Chordata	Osteichthyes	Perciformes	Mugilidae	Chelon	species
+302	Liza aurata	Animalia	Chordata	Osteichthyes	Perciformes	Mugilidae	Liza	species
+303	Liza ramada	Animalia	Chordata	Osteichthyes	Perciformes	Mugilidae	Liza	species
+305	Zoarces viviparus	Animalia	Chordata	Osteichthyes	Perciformes	Zoarcidae	Zoarces	species
+306	Anarhichas lupus	Animalia	Chordata	Osteichthyes	Perciformes	Anarhichadidae	Anarhichas	species
+307	Trachinus draco	Animalia	Chordata	Osteichthyes	Perciformes	Trachnidae	Trachinus	species
+308	Echiichthys vipera	Animalia	Chordata	Osteichthyes	Perciformes	Trachnidae	Echiichthys	species
+309	Lipophrys pholis	Animalia	Chordata	Osteichthyes	Perciformes	Blenniidae	Lipophrys	species
+310	Ammodytes tobianus	Animalia	Chordata	Osteichthyes	Perciformes	Ammodytidae	Ammodytes	species
+311	Ammodytes marinus	Animalia	Chordata	Osteichthyes	Perciformes	Ammodytidae	Ammodytes	species
+312	Hyperoplus lanceolatus	Animalia	Chordata	Osteichthyes	Perciformes	Ammodytidae	Hyperoplus	species
+313	Callionymus lyra	Animalia	Chordata	Osteichthyes	Perciformes	Callionymidae	Callionymus	species
+314	Pomatoschistus minutus	Animalia	Chordata	Osteichthyes	Perciformes	Gobiidae	Pomatoschistus	species
+315	Scomber scombrus	Animalia	Chordata	Osteichthyes	Perciformes	Scombridae	Scomber	species
+316	Scomber japonicus	Animalia	Chordata	Osteichthyes	Perciformes	Scombridae	Scomber	species
+317	Thunnus thynnus	Animalia	Chordata	Osteichthyes	Perciformes	Scombridae	Thunnus	species
+318	Scophthalmus maximus	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Bothidae	Scophthalmus	species
+319	Scophthalmus rhombus	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Bothidae	Scophthalmus	species
+320	Pleuronectidae	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Pleuronectidae		family
+321	Pleuronectes platessa	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Pleuronectidae	Pleuronectes	species
+322	Limanda limanda	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Pleuronectidae	Limanda	species
+323	Platichthys flesus	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Pleuronectidae	Platichthys	species
+324	Hippoglossus hippoglossus	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Pleuronectidae	Hippoglossus	species
+325	Solea solea	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Soleidae	Solea	species
+326	Buglossidium luteum	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Soleidae	Buglossidium	species
+329	Emys orbicularis	Animalia	Chordata	Reptilia	Testudines	Emydidae	Emys	species
+330	Anguis fragilis	Animalia	Chordata	Reptilia	Squamata	Anguidae	Anguis	species
+331	Lacerta muralis	Animalia	Chordata	Reptilia	Squamata	Lacertidae	Lacerta	species
+332	Lacerta vivipara	Animalia	Chordata	Reptilia	Squamata	Lacertidae	Lacerta	species
+333	Lacerta agilis	Animalia	Chordata	Reptilia	Squamata	Lacertidae	Lacerta	species
+334	Coronella austriaca	Animalia	Chordata	Reptilia	Squamata	Colubridae	Coronella	species
+335	Natrix natrix	Animalia	Chordata	Reptilia	Squamata	Colubridae	Natrix	species
+336	Vipera berus	Animalia	Chordata	Reptilia	Squamata	Viperidae	Vipera	species
+338	Reptilia	Animalia	Chordata	Reptilia				class
+339	Triturus vulgaris	Animalia	Chordata	Amphibia	Caudata	Salamandridae	Triturus	species
+340	Triturus helveticus	Animalia	Chordata	Amphibia	Caudata	Salamandridae	Triturus	species
+341	Triturus cristatus	Animalia	Chordata	Amphibia	Caudata	Salamandridae	Triturus	species
+342	Triturus alpestris	Animalia	Chordata	Amphibia	Caudata	Salamandridae	Triturus	species
+343	Salamandra salamandra	Animalia	Chordata	Amphibia	Caudata	Salamandridae	Salamandra	species
+344	Bombina variegata	Animalia	Chordata	Amphibia	Anura	Discoglossidae	Bombina	species
+345	Bombina bombina	Animalia	Chordata	Amphibia	Anura	Discoglossidae	Bombina	species
+346	Pelobates fuscus	Animalia	Chordata	Amphibia	Anura	Pelobatidae	Pelobates	species
+347	Bufo bufo	Animalia	Chordata	Amphibia	Anura	Bufonidae	Bufo	species
+348	Bufo calamita	Animalia	Chordata	Amphibia	Anura	Bufonidae	Bufo	species
+349	Bufo viridis	Animalia	Chordata	Amphibia	Anura	Bufonidae	Bufo	species
+350	Hyla arborea	Animalia	Chordata	Amphibia	Anura	Hylidae	Hyla	species
+351	Rana esculenta	Animalia	Chordata	Amphibia	Anura	Ranidae	Rana	species
+352	Rana ridibunda	Animalia	Chordata	Amphibia	Anura	Ranidae	Rana	species
+353	Rana temporaria	Animalia	Chordata	Amphibia	Anura	Ranidae	Rana	species
+354	Rana arvalis	Animalia	Chordata	Amphibia	Anura	Ranidae	Rana	species
+355	Rana dalmatina	Animalia	Chordata	Amphibia	Anura	Ranidae	Rana	species
+356	Ranidae	Animalia	Chordata	Amphibia	Anura	Ranidae		family
+357	Anura	Animalia	Chordata	Amphibia	Anura			order
+359	Amphibia	Animalia	Chordata	Amphibia				class
+360	Theodoxus fluviatilis	Animalia	Mollusca	Gastropoda	Neritaemorphi	Neritidae	Theodoxus	species
+361	Viviparus viviparus	Animalia	Mollusca	Gastropoda	Architaenioglossa	Viviparidae	Viviparus	species
+363	Viviparus	Animalia	Mollusca	Gastropoda	Architaenioglossa	Viviparidae	Viviparus	genus
+364	Valvata cristata	Animalia	Mollusca	Gastropoda	Ectobranchia	Valvatidae	Valvata	species
+365	Aplexa hypnorum	Animalia	Mollusca	Gastropoda	Pulmonata	Physidae	Aplexa	species
+366	Physa fontinalis	Animalia	Mollusca	Gastropoda	Pulmonata	Physidae	Physa	species
+368	Radix ovata	Animalia	Mollusca	Gastropoda	Pulmonata	Lymnaeidae	Radix	species
+369	Lymnaea stagnalis	Animalia	Mollusca	Gastropoda	Pulmonata	Lymnaeidae	Lymnaea	species
+370	Lymnaea	Animalia	Mollusca	Gastropoda	Pulmonata	Lymnaeidae	Lymnaea	genus
+372	Valvata piscinalis	Animalia	Mollusca	Gastropoda	Ectobranchia	Valvatidae	Valvata	species
+373	Valvata	Animalia	Mollusca	Gastropoda	Ectobranchia	Valvatidae	Valvata	genus
+374	Assiminea grayana	Animalia	Mollusca	Gastropoda	Neotaenioglossa	Assimineidae	Assiminea	species
+375	Planorbis planorbis	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Planorbis	species
+377	Anisus vortex	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Anisus	species
+379	Bathyomphalus contortus	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Bathyomphalus	species
+380	Gyraulus crista	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Gyraulus	species
+383	Anisus	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Anisus	genus
+384	Acroloxus lacustris	Animalia	Mollusca	Gastropoda	Pulmonata	Acroloxidae	Acroloxus	species
+385	Unio crassus	Animalia	Mollusca	Bivalvia	Unionoida	Unionidae	Unio	species
+386	Unio tumidus	Animalia	Mollusca	Bivalvia	Unionoida	Unionidae	Unio	species
+387	Unio pictorum	Animalia	Mollusca	Bivalvia	Unionoida	Unionidae	Unio	species
+388	Unio	Animalia	Mollusca	Bivalvia	Unionoida	Unionidae	Unio	genus
+389	Anodonta cygnaea	Animalia	Mollusca	Bivalvia	Unionoida	Unionidae	Anodonta	species
+390	Pisidium amnicum	Animalia	Mollusca	Bivalvia	Veneroida	Sphaeriidae	Pisidium	species
+391	Pisidium nitidum	Animalia	Mollusca	Bivalvia	Veneroida	Sphaeriidae	Pisidium	species
+392	Pisidium supinum	Animalia	Mollusca	Bivalvia	Veneroida	Sphaeriidae	Pisidium	species
+393	Pisidium henslowanum	Animalia	Mollusca	Bivalvia	Veneroida	Sphaeriidae	Pisidium	species
+394	Pisidium	Animalia	Mollusca	Bivalvia	Veneroida	Sphaeriidae	Pisidium	genus
+395	Sphaerium corneum	Animalia	Mollusca	Bivalvia	Veneroida	Sphaeriidae	Sphaerium	species
+396	Sphaerium rivicola	Animalia	Mollusca	Bivalvia	Veneroida	Sphaeriidae	Sphaerium	species
+398	Sphaerium	Animalia	Mollusca	Bivalvia	Veneroida	Sphaeriidae	Sphaerium	genus
+399	Dreissena polymorpha	Animalia	Mollusca	Bivalvia	Veneroida	Dreissenidae	Dreissena	species
+401	Carychium tridentatum	Animalia	Mollusca	Gastropoda	Basommatophora	Ellobiidae	Carychium	species
+402	Succinea putris	Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae	Succinea	species
+404	Succinea sarsii	Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae	Succinea	species
+405	Succinea	Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae	Succinea	genus
+406	Cochlicopa lubrica	Animalia	Mollusca	Gastropoda	Stylommatophora	Cochlicopidae	Cochlicopa	species
+407	Pupilla muscorum	Animalia	Mollusca	Gastropoda	Stylommatophora	Pupillidae	Pupilla	species
+408	Lauria cylindracea	Animalia	Mollusca	Gastropoda	Stylommatophora	Pupillidae	Lauria	species
+409	Vallonia pulchella	Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	Vallonia	species
+410	Vallonia excentrica	Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	Vallonia	species
+411	Vallonia	Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	Vallonia	genus
+412	Ena montana	Animalia	Mollusca	Gastropoda	Stylommatophora	Enidae	Ena	species
+413	Clausilia parvula	Animalia	Mollusca	Gastropoda	Stylommatophora	Clausiliidae	Clausilia	species
+414	Clausilia nigricans	Animalia	Mollusca	Gastropoda	Stylommatophora	Clausiliidae	Clausilia	species
+415	Clausilia dubia	Animalia	Mollusca	Gastropoda	Stylommatophora	Clausiliidae	Clausilia	species
+416	Clausilia rolphii	Animalia	Mollusca	Gastropoda	Stylommatophora	Clausiliidae	Clausilia	species
+417	Clausilia	Animalia	Mollusca	Gastropoda	Stylommatophora	Clausiliidae	Clausilia	genus
+418	Balea perversa	Animalia	Mollusca	Gastropoda	Stylommatophora	Clausiliidae	Balea	species
+419	Cochlodina laminata	Animalia	Mollusca	Gastropoda	Stylommatophora	Clausiliidae	Cochlodina	species
+420	Punctum pygmaeum	Animalia	Mollusca	Gastropoda	Stylommatophora	Punctidae	Punctum	species
+421	Discus rotundatus	Animalia	Mollusca	Gastropoda	Stylommatophora	Endodontidae	Discus	species
+422	Vitrea crystallina	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae	Vitrea	species
+424	Nesovitrea hammonis	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae	Nesovitrea	species
+425	Zonitidae	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae		family
+426	Oxychilus cellarius	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae	Oxychilus	species
+427	Oxychilus draparnaldi	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae	Oxychilus	species
+428	Oxychilus	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae	Oxychilus	genus
+429	Oxychilus alliarius	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae	Oxychilus	species
+430	Oxychilus helveticus	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae	Oxychilus	species
+431	Zonitoides nitidus	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae	Zonitoides	species
+432	Zonitoides excavatus	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae	Zonitoides	species
+433	Zonitoides	Animalia	Mollusca	Gastropoda	Stylommatophora	Zonitidae	Zonitoides	genus
+434	Helicella gigaxii	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helicella	species
+435	Helicella virgata	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helicella	species
+437	Helicella	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helicella	genus
+438	Helicella intersecta	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helicella	species
+439	Perforatella incarnata	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Perforatella	species
+440	Trichia hispida	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Trichia	species
+441	Helicigona lapicida	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helicigona	species
+443	Helicigona	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helicigona	genus
+444	Cepaea nemoralis	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Cepaea	species
+445	Cepaea hortensis	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Cepaea	species
+446	Cepaea	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Cepaea	genus
+447	Helix pomatia	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helix	species
+448	Helix aspersa	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helix	species
+449	Helix	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helix	genus
+450	Glycymeris glycymeris	Animalia	Mollusca	Bivalvia	Arcoida	Glycymerididae	Glycymeris	species
+451	Modiolus modiolus	Animalia	Mollusca	Bivalvia	Mytiloida	Mytilidae	Modiolus	species
+452	Mytilus edulis	Animalia	Mollusca	Bivalvia	Mytiloida	Mytilidae	Mytilus	species
+453	Pecten maximus	Animalia	Mollusca	Bivalvia	Pterioida	Pectinidae	Pecten	species
+454	Pecten jacobaeus	Animalia	Mollusca	Bivalvia	Pterioida	Pectinidae	Pecten	species
+455	Chlamys varia	Animalia	Mollusca	Bivalvia	Pterioida	Pectinidae	Chlamys	species
+456	Chlamys opercularis	Animalia	Mollusca	Bivalvia	Pterioida	Pectinidae	Chlamys	species
+457	Chlamys	Animalia	Mollusca	Bivalvia	Pterioida	Pectinidae		family
+458	Lima loscombi	Animalia	Mollusca	Bivalvia	Pterioida	Limidae	Lima	species
+459	Anomia ephippium	Animalia	Mollusca	Bivalvia	Pterioida	Anomiidae	Anomia	species
+460	Ostrea edulis	Animalia	Mollusca	Bivalvia	Pterioida	Ostreidae	Ostrea	species
+461	Crassostrea angulata	Animalia	Mollusca	Bivalvia	Pterioida	Ostreidae	Crassostrea	species
+462	Astarte montagui	Animalia	Mollusca	Bivalvia	Veneroida	Astartidae	Astarte	species
+463	Arctica islandica	Animalia	Mollusca	Bivalvia	Veneroida	Arcticidae	Arctica	species
+464	Lucinella divaricata	Animalia	Mollusca	Bivalvia	Veneroida	Lucinidae	Lucinella	species
+465	Lasaea rubra	Animalia	Mollusca	Bivalvia	Veneroida	Erycinidae	Lasaea	species
+466	Mysella bidentata	Animalia	Mollusca	Bivalvia	Veneroida	Montacutidae	Mysella	species
+467	Laevicardium crassum	Animalia	Mollusca	Bivalvia	Veneroida	Cardiidae	Laevicardium	species
+468	Cerastoderma edule	Animalia	Mollusca	Bivalvia	Veneroida	Cardiidae	Cerastoderma	species
+469	Acanthocardia echinatum	Animalia	Mollusca	Bivalvia	Veneroida	Cardiidae	Acanthocardia	species
+470	Cerastoderma	Animalia	Mollusca	Bivalvia	Veneroida	Cardiidae	Cerastoderma	genus
+471	Dosinia exoleta	Animalia	Mollusca	Bivalvia	Veneroida	Veneridae	Dosinia	species
+472	Venus verrucosa	Animalia	Mollusca	Bivalvia	Veneroida	Veneridae	Venus	species
+473	Mercenaria mercenaria	Animalia	Mollusca	Bivalvia	Veneroida	Veneridae	Mercenaria	species
+474	Chamelea gallina	Animalia	Mollusca	Bivalvia	Veneroida	Veneridae	Chamelea	species
+475	Spisula	Animalia	Mollusca	Bivalvia	Veneroida	Mactridae	Spisula	genus
+476	Mactra corallina	Animalia	Mollusca	Bivalvia	Veneroida	Mactridae	Mactra	species
+477	Lutraria lutraria	Animalia	Mollusca	Bivalvia	Veneroida	Mactridae	Lutraria	species
+478	Donax vittatus	Animalia	Mollusca	Bivalvia	Veneroida	Donacidae	Donax	species
+479	Venus	Animalia	Mollusca	Bivalvia	Veneroida	Veneridae	Venus	genus
+480	Venerupis pullastra	Animalia	Mollusca	Bivalvia	Veneroida	Veneridae	Venerupis	species
+481	Petricola pholadiformis	Animalia	Mollusca	Bivalvia	Petricolidae	Petricolidae	Petricola	species
+482	Spisula subtruncata	Animalia	Mollusca	Bivalvia	Veneroida	Mactridae	Spisula	species
+483	Spisula solida	Animalia	Mollusca	Bivalvia	Veneroida	Mactridae	Spisula	species
+484	Spisula elliptica	Animalia	Mollusca	Bivalvia	Veneroida	Mactridae	Spisula	species
+485	Gari fervensis	Animalia	Mollusca	Bivalvia	Veneroida	Psammobiidae	Gari	species
+486	Abra alba	Animalia	Mollusca	Bivalvia	Veneroida	Semelidae	Abra	species
+487	Scrobicularia plana	Animalia	Mollusca	Bivalvia	Veneroida	Scobiculariidae	Scrobicularia	species
+488	Macoma balthica	Animalia	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma	species
+489	Tellina fabula	Animalia	Mollusca	Bivalvia	Veneroida	Tellinidae	Tellina	species
+490	Tellina tenuis	Animalia	Mollusca	Bivalvia	Veneroida	Tellinidae	Tellina	species
+491	Angelus	Animalia	Mollusca	Bivalvia	Veneroida	Tellinidae	Tellina	genus
+492	Ensis ensis	Animalia	Mollusca	Bivalvia	Veneroida	Pharidae	Ensis	species
+493	Ensis arcuatis	Animalia	Mollusca	Bivalvia	Veneroida	Pharidae	Ensis	species
+494	Ensis siliqua	Animalia	Mollusca	Bivalvia	Veneroida	Pharidae	Ensis	species
+495	Ensis	Animalia	Mollusca	Bivalvia	Veneroida	Pharidae	Ensis	genus
+496	Hiatella striata	Animalia	Mollusca	Bivalvia	Myoida	Hiatellidae	Hiatella	species
+497	Sphenia binghami	Animalia	Mollusca	Bivalvia	Myoida	Myidae	Sphenia	species
+498	Mya truncata	Animalia	Mollusca	Bivalvia	Myoida	Myidae	Mya	species
+499	Mya arenaria	Animalia	Mollusca	Bivalvia	Myoida	Myidae	Mya	species
+500	Mya	Animalia	Mollusca	Bivalvia	Myoida	Myidae	Mya	genus
+501	Barnea candida	Animalia	Mollusca	Bivalvia	Myoida	Pholadidae	Barnea	species
+502	Zirfaea crispata	Animalia	Mollusca	Bivalvia	Myoida	Pholadidae	Zirfaea	species
+503	Pholas dactylus	Animalia	Mollusca	Bivalvia	Myoida	Pholadidae	Pholas	species
+504	Teredo navalis	Animalia	Mollusca	Bivalvia	Myoida	Teredinidae	Teredo	species
+505	Thracia phaseolina	Animalia	Mollusca	Bivalvia	Pholadomyoida	Thraciidae	Thracia	species
+506	Patella vulgata	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Patellidae	Patella	species
+507	Patella depressa	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Patellidae	Patella	species
+508	Patella athletica	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Patellidae	Patella	species
+509	Patella	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Patellidae	Patella	genus
+510	Calliostoma zizyphinum	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Calliostoma	species
+511	Jujubinus exasperatus	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Jujubinus	species
+512	Gibbula magus	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Gibbula	species
+513	Gibbula pennanti	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Gibbula	species
+514	Gibbula tumida	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Gibbula	species
+515	Gibbula cineraria	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Gibbula	species
+516	Gibbula umbilicalis	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Gibbula	species
+517	Gibbula	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Trochidae	Gibbula	genus
+518	Littorina littorea	Animalia	Mollusca	Gastropoda	Mesogastropoda	Littorinidae	Littorina	species
+519	Littorina saxatilis	Animalia	Mollusca	Gastropoda	Mesogastropoda	Littorinidae	Littorina	species
+520	Littorina obtusata	Animalia	Mollusca	Gastropoda	Mesogastropoda	Littorinidae	Littorina	species
+521	Littorina	Animalia	Mollusca	Gastropoda	Mesogastropoda	Littorinidae	Littorina	genus
+522	Hydrobia stagnarum	Animalia	Mollusca	Gastropoda	Mesogastropoda	Hydrobiidae	Hydrobia	species
+524	Hydrobia	Animalia	Mollusca	Gastropoda	Mesogastropoda	Hydrobiidae	Hydroba	genus
+525	Rissoa membranacea	Animalia	Mollusca	Gastropoda	Mesogastropoda	Rissoidae	Rissoa	species
+526	Rissoella diaphana	Animalia	Mollusca	Gastropoda	Mesogastropoda	Rissoellidae	Rissoella	species
+527	Turritella communis	Animalia	Mollusca	Gastropoda	Mesogastropoda	Turritellidae	Turritella	species
+528	Bittium reticulatum	Animalia	Mollusca	Gastropoda	Mesogastropoda	Cerithiidae	Bittium	species
+529	Epitonium clathrus	Animalia	Mollusca	Gastropoda	Heterogastropoda	Epitoniidae	Epitonium	species
+530	Calyptraea chinensis	Animalia	Mollusca	Gastropoda	Mesogastropoda	Calyptraeidae	Calyptraea	species
+531	Crepidula fornicata	Animalia	Mollusca	Gastropoda	Mesogastropoda	Calyptraeidae	Crepidula	species
+532	Aporrhais pespelecani	Animalia	Mollusca	Gastropoda	Mesogastropoda	Aporrhaidae	Aporrhais	species
+533	Euspira catena	Animalia	Mollusca	Gastropoda	Mesogastropoda	Naticidae	Euspira	species
+534	Euspira nitida	Animalia	Mollusca	Gastropoda	Mesogastropoda	Naticidae	Euspira	species
+535	Policines	Animalia	Mollusca	Gastropoda	Mesogastropoda	Naticidae	Policines	genus
+536	Velutina velutina	Animalia	Mollusca	Gastropoda	Mesogastropoda	Lamellariidae	Velutina	species
+537	Trivia monacha	Animalia	Mollusca	Gastropoda	Mesogastropoda	Triviidae	Trivia	species
+538	Trivia arctica	Animalia	Mollusca	Gastropoda	Mesogastropoda	Triviidae	Trivia	species
+539	Trivia	Animalia	Mollusca	Gastropoda	Mesogastropoda	Trividae	Trivia	genus
+540	Thais lapillus	Animalia	Mollusca	Gastropoda	Neogastropoda	Thaididae	Thais	species
+541	Ocenebra erinaceus	Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	Ocenebra	species
+542	Colus gracilis	Animalia	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Colus	species
+543	Neptunea antiqua	Animalia	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Neptunea	species
+544	Buccinum undatum	Animalia	Mollusca	Gastropoda	Neogastropoda	Buccinidae	Buccinum	species
+545	Nassarius reticulatus	Animalia	Mollusca	Gastropoda	Neogastropoda	Nassariidae	Nassarius	species
+546	Nassarius incrassatus	Animalia	Mollusca	Gastropoda	Neogastropoda	Nassariidae	Nassarius	species
+547	Nassarius pygmaeus	Animalia	Mollusca	Gastropoda	Neogastropoda	Nassariidae	Nassarius	species
+548	Nassarius	Animalia	Mollusca	Gastropoda	Neogastropoda	Nassariidae	Nassarius	genus
+549	Oenopota turricula	Animalia	Mollusca	Gastropoda	Neogastropoda	Turridae	Oenopota	species
+550	Acteon tornatilis	Animalia	Mollusca	Gastropoda	Bullomorpha	Acteonidae	Acteon	species
+551	Brachystomia scalaris	Animalia	Mollusca	Gastropoda		Pyramidellidae	Brachystomia	species
+552	Dentalium vulgare	Animalia	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	Dentalium	species
+553	Dentalium entale	Animalia	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	Dentalium	species
+554	Dentalium	Animalia	Mollusca	Scaphopoda	Dentaliida	Dentaliidae	Dentalium	genus
+559	Mollusca	Animalia	Mollusca					phylum
+560	Insecta	Animalia	Arthropoda	Insecta				class
+561	Acari	Animalia	Arthropoda	Acari				subclass
+562	Crustacea	Animalia	Arthropoda					subphylum
+564	Phasianus colchicus	Animalia	Chordata	Aves	Galliformes	Phasianidae	Phasianus	species
+565	Recurvirostra avosetta	Animalia	Chordata	Aves	Charadriiformes	Recurvirostridae	Recurvirostra	species
+566	Turdus merula	Animalia	Chordata	Aves	Passeriformes	Turdidae	Turdus	species
+567	Alca torda	Animalia	Chordata	Aves	Charadriiformes	Alcidae	Alca	species
+568	Coregonus	Animalia	Chordata	Osteichthyes	Salmoniformes	Salmonidae	Coregonus	genus
+569	Tyto alba	Animalia	Chordata	Aves	Strigiformes	Strigidae	Tyto	species
+570	Triglidae	Animalia	Chordata	Osteichthyes	Scorpaeniformes	Triglidae		family
+572	Percidae	Animalia	Chordata	Osteichthyes	Perciformes	Percidae		family
+573	Gallinula chloropus	Animalia	Chordata	Aves	Galliformes	Phasianidae	Gallinula	species
+574	Bos taurus	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	species
+576	Ovis aries	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Ovis	species
+577	Capra hircus	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Capra	species
+578	Sus domesticus	Animalia	Chordata	Mammalia	Artiodactyla	Suidae	Sus	species
+579	Equus caballus	Animalia	Chordata	Mammalia	Perissodactyla	Equidae	Equus	species
+580	Brosme brosme	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Brosme	species
+582	Bufo	Animalia	Chordata	Amphibia	Anura	Bufonidae	Bufo	genus
+583	Rana	Animalia	Chordata	Amphibia	Anura	Ranidae	Rana	genus
+584	Mergus	Animalia	Chordata	Aves	Anseriformes	Anatidae	Mergus	genus
+586	Camelus bactrianus	Animalia	Chordata	Mammalia	Artiodactyla	Camelidae	Camelus	species
+587	Camelus dromedarius	Animalia	Chordata	Mammalia	Artiodactyla	Camelidae	Camelus	species
+592	Ovis ammon	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Ovis	species
+593	Equus	Animalia	Chordata	Mammalia	Perissodactyla	Equidae	Equus	genus
+596	Cervidae	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae		family
+597	Soricidae	Animalia	Chordata	Mammalia	Insectivora	Soricidae		family
+598	Arvicola sapidus	Animalia	Chordata	Mammalia	Rodentia	Arvicolidae	Arvicola	species
+599	Arvicola	Animalia	Chordata	Mammalia	Rodentia	Arvicolidae	Arvicola	genus
+601	Gliridae	Animalia	Chordata	Mammalia	Rodentia	Gliridae		family
+603	Muridae	Animalia	Chordata	Mammalia	Rodentia	Muridae		family
+604	Rattus	Animalia	Chordata	Mammalia	Rodentia	Muridae	Rattus	genus
+605	Sorex coronatus	Animalia	Chordata	Mammalia	Insectivora	Soricidae	Sorex	species
+606	Lepus timidus	Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	Lepus	species
+607	Lepus	Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	Lepus	genus
+608	Ursus maritimus	Animalia	Chordata	Mammalia	Carnivora	Ursidae	Ursus	species
+609	Loxodonta africana	Animalia	Chordata	Mammalia	Proboscidea	Elephantidae	Loxodonta	species
+610	Delphinus delphis	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Delphinus	species
+611	Lagenorhynchus albirostris	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Lagenorhynchus	species
+612	Globicephala melas	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Globicephala	species
+613	Cercopithecus aethiops	Animalia	Chordata	Mammalia	Primates	Cercopithecidae	Cercopithecus	species
+614	Panthera leo	Animalia	Chordata	Mammalia	Carnivora	Felidae	Panthera	species
+615	Cebus	Animalia	Chordata	Mammalia	Primates	Cebidae	Cebus	genus
+616	Microtus	Animalia	Chordata	Mammalia	Rodentia	Arvicolidae	Microtus	genus
+617	Rodentia	Animalia	Chordata	Mammalia	Rodentia			order
+618	Apodemus	Animalia	Chordata	Mammalia	Rodentia	Muridae	Apodemus	genus
+620	Balaenoptera	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae	Balaenoptera	genus
+621	Phocidae	Animalia	Chordata	Mammalia	Carnivora	Phocidae		family
+622	Buteo lagopus	Animalia	Chordata	Aves	Strigiformes	Strigidae	Buteo	species
+623	Buteo	Animalia	Chordata	Aves	Strigiformes	Strigidae	Buteo	genus
+624	Anatidae	Animalia	Chordata	Aves	Anseriformes	Anatidae		family
+625	Anas	Animalia	Chordata	Aves	Anseriformes	Anatidae	Anas	genus
+627	Anserinae	Animalia	Chordata	Aves	Anseriformes	Anatidae		subfamily
+628	Branta	Animalia	Chordata	Aves	Anseriformes	Anatidae	Branta	genus
+629	Ardeidae	Animalia	Chordata	Aves	Ciconiiformes	Ardeidae		family
+630	Ardea	Animalia	Chordata	Aves	Ciconiiformes	Ardeidae	Ardea	genus
+632	Phoenicopterus ruber	Animalia	Chordata	Aves	Phoenicopteriformes	Phoenicopteridae	Phoenicopterus	species
+633	Motacilla flava	Animalia	Chordata	Aves	Passeriformes	Motacillidae	Motacilla	species
+634	Mergus albellus	Animalia	Chordata	Aves	Anseriformes	Anatidae	Mergus	species
+635	Parus major	Animalia	Chordata	Aves	Passeriformes	Paridae	Parus	species
+636	Galliformes	Animalia	Chordata	Aves	Galliformes			order
+637	Tachybaptus ruficollis	Animalia	Chordata	Aves	Podicipediformes	Podicipedidae	Tachybaptus	species
+638	Podiceps cristatus	Animalia	Chordata	Aves	Podicipediformes	Podicipedidae	Podiceps	species
+639	Alauda arvensis	Animalia	Chordata	Aves	Passeriformes	Alaudidae	Alauda	species
+640	Rallus aquaticus	Animalia	Chordata	Aves	Gruiformes	Rallidae	Rallus	species
+641	Rallidae	Animalia	Chordata	Aves	Gruiformes	Rallidae		family
+642	Erithacus rubecula	Animalia	Chordata	Aves	Passeriformes	Turdidae	Erithacus	species
+643	Strigiformes	Animalia	Chordata	Aves	Strigiformes			order
+644	Apus apus	Animalia	Chordata	Aves	Apodiformes	Apodidae	Apus	species
+645	Charadriidae	Animalia	Chordata	Aves	Charadriiformes	Charadriidae		family
+646	Melanitta	Animalia	Chordata	Aves	Anseriformes	Anatidae	Melanitta	genus
+648	Nycticorax nycticorax	Animalia	Chordata	Aves	Ciconiiformes	Ardeidae	Nycticorax	species
+649	Gyps fulvus	Animalia	Chordata	Aves	Falconiformes	Accipitridae	Gyps	species
+650	Gavia	Animalia	Chordata	Aves	Gaviiformes	Gaviidae	Gavia	genus
+651	Sterna paradisaea	Animalia	Chordata	Aves	Charadriiformes	Laridae	Sterna	species
+652	Fulmarus glacialis	Animalia	Chordata	Aves	Podicipediformes	Procellariidae	Fulmarus	species
+653	Pterodroma	Animalia	Chordata	Aves	Procellariiformes	Procellariidae	Pterodroma	genus
+654	Paridae	Animalia	Chordata	Aves	Passeriformes	Paridae		family
+655	Otis tarda	Animalia	Chordata	Aves	Gruiformes	Otididae	Otis	species
+656	Carduelis cannabina	Animalia	Chordata	Aves	Passeriformes	Fringillidae	Carduelis	species
+657	Scolopacidae	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae		family
+658	Charadrius dubius	Animalia	Chordata	Aves	Charadriiformes	Charadriidae	Charadrius	species
+659	Charadrius	Animalia	Chordata	Aves	Charadriiformes	Charadriidae	Charadrius	genus
+660	Recurvirostridae	Animalia	Chordata	Aves	Charadriiformes	Recurvirostridae		family
+661	Circus	Animalia	Chordata	Aves	Falconiformes	Accipitridae	Circus	genus
+662	Circus aeruginosus	Animalia	Chordata	Aves	Falconiformes	Accipitridae	Circus	species
+663	Corvidae	Animalia	Chordata	Aves	Passeriformes	Corvidae		family
+664	Carduelis carduelis	Animalia	Chordata	Aves	Passeriformes	Fringillidae	Carduelis	species
+665	Fringilla coelebs	Animalia	Chordata	Aves	Passeriformes	Fringillidae	Fringilla	species
+666	Pyrrhula pyrrhula	Animalia	Chordata	Aves	Passeriformes	Fringillidae	Pyrrhula	species
+667	Larus ridibundus	Animalia	Chordata	Aves	Charadriiformes	Laridae	Larus	species
+668	Numenius phaeopus	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Numenius	species
+669	Numenius	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Numenius	genus
+671	Passer montanus	Animalia	Chordata	Aves	Passeriformes	Passeridae	Passer	species
+672	Passer	Animalia	Chordata	Aves	Passeriformes	Passeridae	Passer	genus
+673	Apus	Animalia	Chordata	Aves	Apodiformes	Apodidae	Apus	genus
+674	Emberiza	Animalia	Chordata	Aves	Passeriformes	Emberizidae	Emberiza	genus
+675	Sylvia communis	Animalia	Chordata	Aves	Passeriformes	Muscicapidae	Sylvia	species
+676	Turdus viscivorus	Animalia	Chordata	Aves	Passeriformes	Turdidae	Turdus	species
+677	Oribatida	Animalia	Arthropoda	Acari	Oribatida			suborder
+678	Atropacarus striculus	Animalia	Arthropoda	Acari	Oribatida	Phthiracaridae	Atropacarus	species
+679	Rhysotritia duplicata	Animalia	Arthropoda	Acari	Oribatida	Euphthiracaridae	Rhysotritia	species
+680	Rhysotritia ardua ardua	Animalia	Arthropoda	Acari	Oribatida	Euphthiracaridae	Rhysotritia	subspecies
+681	Hypochtonius rufulus	Animalia	Arthropoda	Acari	Oribatida	Hypochtoniidae	Hypochtonius	species
+683	Platynothrus peltifer	Animalia	Arthropoda	Acari	Oribatida	Camisiidae	Platynothrus	species
+684	Malaconothridae	Animalia	Arthropoda	Acari	Oribatida	Malaconothridae		family
+685	Trimalaconothrus foveolatus	Animalia	Arthropoda	Acari	Oribatida	Malaconothridae	Trimalaconothrus	species
+687	Nanhermanniidae	Animalia	Arthropoda	Acari	Oribatida	Nanhermanniidae		family
+688	Nanhermannia coronata	Animalia	Arthropoda	Acari	Oribatida	Nanhermanniidae	Nanhermannia	species
+689	Hermannia scabra	Animalia	Arthropoda	Acari	Oribatida	Hermanniidae	Hermannia	species
+690	Hermannia subglabra	Animalia	Arthropoda	Acari	Oribatida	Hermanniidae	Hermannia	species
+691	Poroliodes farinosus	Animalia	Arthropoda	Acari	Oribatida	Liodidae	Poroliodes	species
+692	Paradamaeus clavipes	Animalia	Arthropoda	Acari	Oribatida	Damaeidae	Paradamaeus	species
+693	Spatiodamaeus verticillipes	Animalia	Arthropoda	Acari	Oribatida	Damaeidae	Spatiodamaeus	species
+694	Epidamaeus bituberculatus	Animalia	Arthropoda	Acari	Oribatida	Damaeidae	Epidamaeus	species
+695	Epidamaeus glabriseta	Animalia	Arthropoda	Acari	Oribatida	Damaeidae	Epidamaeus	species
+696	Hypodamaeus gracilipes	Animalia	Arthropoda	Acari	Oribatida	Damaeidae	Hypodamaeus	species
+697	Metabelba propexus	Animalia	Arthropoda	Acari	Oribatida	Belbidae	Metabelba	species
+698	Cepheus cepheiformes	Animalia	Arthropoda	Acari	Oribatida	Cepheidae	Cepheus	species
+699	Cepheus latus	Animalia	Arthropoda	Acari	Oribatida	Cepheidae	Cepheus	species
+700	Ctenobelba pectinigera	Animalia	Arthropoda	Acari	Oribatida	Ctenobelbidae	Ctenobelba	species
+701	Eueremaeus oblongus	Animalia	Arthropoda	Acari	Oribatida	Eremaeidae	Eueremaeus	species
+702	Liacaridae	Animalia	Arthropoda	Acari	Oribatida	Liacaridae		family
+703	Liacarus coracinus	Animalia	Arthropoda	Acari	Oribatida	Liacaridae	Liacarus	species
+704	Astegistes pilosus	Animalia	Arthropoda	Acari	Oribatida	Astegistidae	Astegistes	species
+705	Carabodidae	Animalia	Arthropoda	Acari	Oribatida	Carabodidae		family
+706	Carabodes reticulatus	Animalia	Arthropoda	Acari	Oribatida	Carabodidae	Carabodes	species
+707	Carabodes marginatus	Animalia	Arthropoda	Acari	Oribatida	Carabodidae	Carabodes	species
+708	Carabodes labyrinthicus	Animalia	Arthropoda	Acari	Oribatida	Carabodidae	Carabodes	species
+709	Carabodes schatzi	Animalia	Arthropoda	Acari	Oribatida	Carabodidae	Carabodes	species
+710	Tectocepheidae	Animalia	Arthropoda	Acari	Oribatida	Tectocepheidae		family
+711	Tectocepheus concurvatus	Animalia	Arthropoda	Acari	Oribatida	Tectocepheidae	Tectocepheus	species
+712	Tectocepheus sarekensis	Animalia	Arthropoda	Acari	Oribatida	Tectocepheidae	Tectocepheus	species
+713	Tectocepheus velatus	Animalia	Arthropoda	Acari	Oribatida	Tectocepheidae	Tectocepheus	species
+714	Oppiidae	Animalia	Arthropoda	Acari	Oribatida	Oppiidae		family
+715	Quadroppia quadricarinata	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Quadroppia	species
+716	Oppiella nova	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Oppiella	species
+717	Lauroppia maritima	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Lauroppia	species
+718	Dissorhina ornata	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Dissorhina	species
+719	Moritzoppia unicarinata	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Moritzoppia	species
+720	Berniniella bicarinata	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Berniniella	species
+721	Medioppia subpectinata	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Medioppia	species
+722	Microppia minus	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Microppia	species
+723	Oppia nitens	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Oppia	species
+724	Ramusella clavipectinata	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Ramusella	species
+725	Suctobelbidae	Animalia	Arthropoda	Acari	Oribatida	Suctobelbidae		family
+726	Suctobelbella tuberculata	Animalia	Arthropoda	Acari	Oribatida	Suctobelbidae	Suctobelbella	species
+727	Suctobelbella alloenasuta	Animalia	Arthropoda	Acari	Oribatida	Suctobelbidae	Suctobelbella	species
+728	Suctobelbella singularis	Animalia	Arthropoda	Acari	Oribatida	Suctobelbidae	Suctobelbella	species
+729	Suctobelbella palustris	Animalia	Arthropoda	Acari	Oribatida	Suctobelbidae	Suctobelbella	species
+730	Suctobelbella falcata	Animalia	Arthropoda	Acari	Oribatida	Suctobelbidae	Suctobelbella	species
+731	Suctobelbella latirostris	Animalia	Arthropoda	Acari	Oribatida	Suctobelbidae	Suctobelbella	species
+732	Autogneta longilamellata	Animalia	Arthropoda	Acari	Oribatida	Autognetidae	Autogneta	species
+733	Autogneta inundata	Animalia	Arthropoda	Acari	Oribatida	Autognetidae	Autogneta	species
+734	Conchogneta delacarlica	Animalia	Arthropoda	Acari	Oribatida	Autognetidae	Conchogneta	species
+735	Caleremaeus monilipes	Animalia	Arthropoda	Acari	Oribatida	Caleremaeidae	Caleremaeus	species
+736	Banksinoma lanceolata	Animalia	Arthropoda	Acari	Oribatida	Banksinomidae	Banksinoma	species
+737	Oribella pectinata	Animalia	Arthropoda	Acari	Oribatida	Banksinomidae	Oribella	species
+738	Pantelozetes paolii	Animalia	Arthropoda	Acari	Oribatida	Banksinomidae	Pantelozetes	species
+739	Hydrozetes thienemanni	Animalia	Arthropoda	Acari	Oribatida	Hydrozetidae	Hydrozetes	species
+740	Hydrozetes confervae	Animalia	Arthropoda	Acari	Oribatida	Hydrozetidae	Hydrozetes	species
+741	Hydrozetes lemnae	Animalia	Arthropoda	Acari	Oribatida	Hydrozetidae	Hydrozetes	species
+742	Hydrozetes lacustris	Animalia	Arthropoda	Acari	Oribatida	Hydrozetidae	Hydrozetes	species
+743	Limnozetidae	Animalia	Arthropoda	Acari	Oribatida	Limnozetidae		family
+744	Limnozetes ciliatus	Animalia	Arthropoda	Acari	Oribatida	Limnozetidae	Limnozetes	species
+745	Limnozetes rugosus	Animalia	Arthropoda	Acari	Oribatida	Limnozetidae	Limnozetes	species
+746	Ameronothrus lineatus	Animalia	Arthropoda	Acari	Oribatida	Ameronothridae	Ameronothrus	species
+747	Ameronothrus maculatus	Animalia	Arthropoda	Acari	Oribatida	Ameronothridae	Ameronothrus	species
+748	Cymbaeremaeus cymba	Animalia	Arthropoda	Acari	Oribatida	Cymbaeremaeidae	Cymbaeremaeus	species
+749	Micreremus brevipes	Animalia	Arthropoda	Acari	Oribatida	Micreremidae	Micreremus	species
+750	Scutovertex pilosetosus	Animalia	Arthropoda	Acari	Oribatida	Scutoverticidae	Scutovertex	species
+751	Scutovertex minutus	Animalia	Arthropoda	Acari	Oribatida	Scutoverticidae	Scutovertex	species
+752	Scutovertex sculptus	Animalia	Arthropoda	Acari	Oribatida	Scutoverticidae	Scutovertex	species
+753	Scutoverticidae	Animalia	Arthropoda	Acari	Oribatida	Scutoverticidae		family
+754	Oribatulidae	Animalia	Arthropoda	Acari	Oribatida	Oribatulidae		family
+755	Zygoribatula exilis	Animalia	Arthropoda	Acari	Oribatida	Oribatulidae	Zygoribatula	species
+756	Zygoribatula propinquus	Animalia	Arthropoda	Acari	Oribatida	Oribatulidae	Zygoribatula	species
+757	Zygoribatula cognata	Animalia	Arthropoda	Acari	Oribatida	Oribatulidae	Zygoribatula	species
+758	Zygoribatula frisiae	Animalia	Arthropoda	Acari	Oribatida	Oribatulidae	Zygoribatula	species
+759	Oribatula tibialis	Animalia	Arthropoda	Acari	Oribatida	Oribatulidae	Oribatula	species
+760	Phauloppia lucorum	Animalia	Arthropoda	Acari	Oribatida	Oribatulidae	Phauloppia	species
+761	Dometorina plantivaga	Animalia	Arthropoda	Acari	Oribatida	Hemileidae	Dometorina	species
+762	Scheloribatidae	Animalia	Arthropoda	Acari	Oribatida	Scheloribatidae		family
+763	Scheloribates pallidulus	Animalia	Arthropoda	Acari	Oribatida	Scheloribatidae	Scheloribates	species
+764	Scheloribates latipes	Animalia	Arthropoda	Acari	Oribatida	Scheloribatidae	Scheloribates	species
+765	Scheloribates laevigatus	Animalia	Arthropoda	Acari	Oribatida	Scheloribatidae	Scheloribates	species
+767	Liebstadia similis	Animalia	Arthropoda	Acari	Oribatida	Liebstadiidae	Liebstadia	species
+768	Chamobatidae	Animalia	Arthropoda	Acari	Oribatida	Chamobatidae		family
+769	Chamobates cuspidatus	Animalia	Arthropoda	Acari	Oribatida	Chamobatidae	Chamobates	species
+770	Chamobates schützi	Animalia	Arthropoda	Acari	Oribatida	Chamobatidae	Chamobates	species
+771	Chamobates pusillus	Animalia	Arthropoda	Acari	Oribatida	Chamobatidae	Chamobates	species
+772	Chamobates borealis	Animalia	Arthropoda	Acari	Oribatida	Chamobatidae	Chamobates	species
+773	Zetomimus furcatus	Animalia	Arthropoda	Acari	Oribatida	Zetomimidae	Zetomimus	species
+774	Melanozetes mollicomus	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Melanozetes	species
+775	Diapterobates humeralis	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Diapterobates	species
+776	Fuscozetes fuscipes	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Fuscozetes	species
+777	Latilamellobates incisellus	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Latilamellobates	species
+778	Trichoribates trimaculatus	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Trichoribates	species
+779	Trichoribates novus	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Trichoribates	species
+780	Humerobates rostrolamellatus	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Humerobates	species
+781	Sphaerozetes piriformis	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Sphaerozetes	species
+782	Ceratozetes parvulus	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Ceratozetes	species
+783	Ceratozetes gracilis	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Ceratozetes	species
+784	Mycobatidae	Animalia	Arthropoda	Acari	Oribatida	Mycobatidae		family
+785	Mycobates parmeliae	Animalia	Arthropoda	Acari	Oribatida	Mycobatidae	Mycobates	species
+786	Minunthozetes semirufus	Animalia	Arthropoda	Acari	Oribatida	Mycobatidae	Minunthozetes	species
+787	Punctoribates hexagonus	Animalia	Arthropoda	Acari	Oribatida	Mycobatidae	Punctoribates	species
+788	Punctoribates sellnicki	Animalia	Arthropoda	Acari	Oribatida	Mycobatidae	Punctoribates	species
+789	Punctoribates quadrivertex	Animalia	Arthropoda	Acari	Oribatida	Mycobatidae	Punctoribates	species
+790	Punctoribates punctum	Animalia	Arthropoda	Acari	Oribatida	Mycobatidae	Punctoribates	species
+791	Pelopidae	Animalia	Arthropoda	Acari	Oribatida	Pelopidae		family
+792	Peloptulus montanus	Animalia	Arthropoda	Acari	Oribatida	Pelopidae	Peloptulus	species
+793	Peloptulus phaenotus	Animalia	Arthropoda	Acari	Oribatida	Pelopidae	Peloptulus	species
+794	Eupelops bilobus	Animalia	Arthropoda	Acari	Oribatida	Pelopidae	Eupelops	species
+795	Eupelops geminus	Animalia	Arthropoda	Acari	Oribatida	Pelopidae	Eupelops	species
+796	Eupelops occultus	Animalia	Arthropoda	Acari	Oribatida	Pelopidae	Eupelops	species
+797	Eupelops acromios	Animalia	Arthropoda	Acari	Oribatida	Pelopidae	Eupelops	species
+798	Eupelops strenzkei	Animalia	Arthropoda	Acari	Oribatida	Pelopidae	Eupelops	species
+799	Eupelops hygrophilus	Animalia	Arthropoda	Acari	Oribatida	Pelopidae	Eupelops	species
+800	Eupelops plicatus	Animalia	Arthropoda	Acari	Oribatida	Pelopidae	Eupelops	species
+801	Oribatellidae	Animalia	Arthropoda	Acari	Oribatida	Oribatellidae		family
+802	Oribatella arctica litoralis	Animalia	Arthropoda	Acari	Oribatida	Oribatellidae	Oribatella	subspecies
+803	Oribatella brevipila	Animalia	Arthropoda	Acari	Oribatida	Oribatellidae	Oribatella	species
+804	Tegoribates latirostris	Animalia	Arthropoda	Acari	Oribatida	Oribatellidae	Tegoribates	species
+805	Achipteriidae	Animalia	Arthropoda	Acari	Oribatida	Achipteriidae		family
+806	Parachipteria willmanni	Animalia	Arthropoda	Acari	Oribatida	Achipteriidae	Parachipteria	species
+807	Parachipteria punctata	Animalia	Arthropoda	Acari	Oribatida	Achipteriidae	Parachipteria	species
+808	Achipteria coleoptrata	Animalia	Arthropoda	Acari	Oribatida	Achipteriidae	Achipteria	species
+809	Parachipteria petiti	Animalia	Arthropoda	Acari	Oribatida	Achipteriidae	Parachipteria	species
+810	Galumnidae	Animalia	Arthropoda	Acari	Oribatida	Galumnidae		family
+811	Pilogalumna tenuiclava	Animalia	Arthropoda	Acari	Oribatida	Galumnidae	Pilogalumna	species
+812	Acrogalumna longipluma	Animalia	Arthropoda	Acari	Oribatida	Galumnidae	Acrogalumna	species
+813	Galumna elimata	Animalia	Arthropoda	Acari	Oribatida	Galumnidae	Galumna	species
+814	Galumna lanceata	Animalia	Arthropoda	Acari	Oribatida	Galumnidae	Galumna	species
+815	Pergalumna nervosa	Animalia	Arthropoda	Acari	Oribatida	Galumnidae	Pergalumna	species
+816	Uropodina	Animalia	Arthropoda	Acari	Uropodina			order
+817	Trematuridae	Animalia	Arthropoda	Acari	Uropodina	Trematuridae		family
+818	Trichouropoda ovalis	Animalia	Arthropoda	Acari	Uropodina	Trematuridae	Trichouropoda	species
+819	Trichouropoda orbicularis	Animalia	Arthropoda	Acari	Uropodina	Trematuridae	Trichouropoda	species
+820	Trichouropoda pecinaituberosa	Animalia	Arthropoda	Acari	Uropodina	Trematuridae	Trichouropoda	species
+821	Nenteria stylifera	Animalia	Arthropoda	Acari	Uropodina	Trematuridae	Nenteria	species
+822	Nenteria floralis	Animalia	Arthropoda	Acari	Uropodina	Trematuridae	Nenteria	species
+823	Nenteria stammeri	Animalia	Arthropoda	Acari	Uropodina	Trematuridae	Nenteria	species
+824	Nenteria breviunguiculata	Animalia	Arthropoda	Acari	Uropodina	Trematuridae	Nenteria	species
+825	Urodinychidae	Animalia	Arthropoda	Acari	Uropodina	Urodinychidae		family
+826	Dinychus undulatus	Animalia	Arthropoda	Acari	Uropodina	Urodinychidae	Dinychus	species
+827	Dinychus bincheaecarinatus	Animalia	Arthropoda	Acari	Uropodina	Urodinychidae	Dinychus	species
+828	Dinychus inermis	Animalia	Arthropoda	Acari	Uropodina	Urodinychidae	Dinychus	species
+829	Uroobovella pulchella	Animalia	Arthropoda	Acari	Uropodina	Urodinychidae	Uroobovella	species
+830	Uroobovella pyriformis	Animalia	Arthropoda	Acari	Uropodina	Urodinychidae	Uroobovella	species
+831	Uroobovella marginata	Animalia	Arthropoda	Acari	Uropodina	Urodinychidae	Uroobovella	species
+832	Uroobovella difoveolata	Animalia	Arthropoda	Acari	Uropodina	Urodinychidae	Uroobovella	species
+833	Uroobovella rackei	Animalia	Arthropoda	Acari	Uropodina	Urodinychidae	Uroobovella	species
+834	Uropodidae	Animalia	Arthropoda	Acari	Uropodina	Uropodidae		family
+835	Uropoda minima	Animalia	Arthropoda	Acari	Uropodina	Uropodidae	Uropoda	species
+836	Uropoda orbicularis	Animalia	Arthropoda	Acari	Uropodina	Uropodidae	Uropoda	species
+837	Phaulodinychus repleta	Animalia	Arthropoda	Acari	Uropodina	Uropodidae	Phaulodinychus	species
+838	Phaulodinychus undulata	Animalia	Arthropoda	Acari	Uropodina	Uropodidae	Phaulodinychus	species
+839	Phaulodinychus vitzthumi	Animalia	Arthropoda	Acari	Uropodina	Uropodidae	Phaulodinychus	species
+840	Phaulodinychus	Animalia	Arthropoda	Acari	Uropodina	Uropodidae	Phaulodinychus	genus
+841	Gamasina	Animalia	Arthropoda	Acari	Gamasina			cohort
+842	Alliphis siculus	Animalia	Arthropoda	Acari	Gamasina	Eviphididae	Alliphis	species
+843	Macrochelidae	Animalia	Arthropoda	Acari	Gamasina	Macrochelidae		family
+844	Holostaspella ornatus	Animalia	Arthropoda	Acari	Gamasina	Macrochelidae	Holostaspella	species
+845	Macrocheles vernalis	Animalia	Arthropoda	Acari	Gamasina	Macrochelidae	Macrocheles	species
+846	Macrocheles glaber	Animalia	Arthropoda	Acari	Gamasina	Macrochelidae	Macrocheles	species
+847	Macrocheles matrius	Animalia	Arthropoda	Acari	Gamasina	Macrochelidae	Macrocheles	species
+848	Macrocheles muscaedomesticae	Animalia	Arthropoda	Acari	Gamasina	Macrochelidae	Macrocheles	species
+849	Pachylaelaps magnus	Animalia	Arthropoda	Acari	Gamasina	Macrochelidae	Pachylaelaps	species
+850	Hypoaspis aculeifer	Animalia	Arthropoda	Acari	Gamasina	Dermanyssidae	Hypoaspis	species
+851	Androlaelaps casalis	Animalia	Arthropoda	Acari	Gamasina	Dermanyssidae	Androlaelaps	species
+852	Ameroseiidae	Animalia	Arthropoda	Acari	Gamasina	Ameroseiidae		family
+853	Ameroseius plumosus	Animalia	Arthropoda	Acari	Gamasina	Ameroseiidae	Ameroseius	species
+854	Proctolaelaps pygmaeus	Animalia	Arthropoda	Acari	Gamasina	Ameroseiidae	Proctolaelaps	species
+855	Neojordensia levis	Animalia	Arthropoda	Acari	Gamasina	Podocinidae	Neojordensia	species
+856	Ascidae	Animalia	Arthropoda	Acari	Gamasina	Ascidae		family
+857	Sejus borealis	Animalia	Arthropoda	Acari	Gamasina	Ascidae	Sejus	species
+858	Sejus necorniger	Animalia	Arthropoda	Acari	Gamasina	Ascidae	Sejus	species
+859	Sejus mutilus	Animalia	Arthropoda	Acari	Gamasina	Ascidae	Sejus	species
+860	Zerconidae	Animalia	Arthropoda	Acari	Gamasina	Zerconidae		family
+861	Eugamasidae	Animalia	Arthropoda	Acari	Gamasina	Eugamasidae		family
+862	Pergamasus crassipes	Animalia	Arthropoda	Acari	Gamasina	Eugamasidae	Pergamasus	species
+863	Pergamasus vagabundus	Animalia	Arthropoda	Acari	Gamasina	Eugamasidae	Pergamasus	species
+864	Veigaia nemorensis	Animalia	Arthropoda	Acari	Gamasina	Eugamasidae	Veigaia	species
+865	Pyroglyphidae	Animalia	Arthropoda	Acari	Actinedida	Pyroglyphidae		family
+866	Cheyletidae	Animalia	Arthropoda	Acari	Actinedida	Cheyletidae		family
+867	Acarididae	Animalia	Arthropoda	Acari	Actinedida	Acarididae		family
+868	Hydrachnidae	Animalia	Arthropoda	Acari	Acaridida	Hydrachnidae		family
+869	Tyrophagus	Animalia	Arthropoda	Acari	Acaridida	Hydrachnidae	Tyrophagus	genus
+870	Damalinia bovis	Animalia	Arthropoda	Insecta	Mallophaga	Trichodectidae	Damalinia	species
+872	Damalinia caprae	Animalia	Arthropoda	Insecta	Mallophaga	Trichodectidae	Damalinia	species
+873	Humerobates fungorum	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Humerobates	species
+874	Mallophaga	Animalia	Arthropoda	Insecta	Mallophaga			order
+875	Acaridida	Animalia	Arthropoda	Acari	Acaridida			order
+876	Hydrozetidae	Animalia	Arthropoda	Acari	Oribatida	Hydrozetidae	ondet.	family
+877	Oribatella quadricornuta	Animalia	Arthropoda	Acari	Oribatida	Oribatellidae	Oribatella	species
+878	Trimalaconothrus novus	Animalia	Arthropoda	Acari	Oribatida	Malaconothridae	Trimalaconothrus	species
+879	Arthropoda	Animalia	Arthropoda					phylum
+880	Solea lascaris	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Soleidae	Solea	species
+881	Soleidae	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Soleidae		family
+882	Planorbis carinatus	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Planorbis	species
+884	Planorbarius corneus	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Planorbarius	species
+886	Planorbidae	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae		family
+887	Segmentina nitida	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Segmentina	species
+888	Anisus leucostoma	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Anisus	species
+889	Anisus vorticulus	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Anisus	species
+890	Anodonta	Animalia	Mollusca	Bivalvia	Unionoida	Unionidae	Anodonta	genus
+892	Viviparus contectus	Animalia	Mollusca	Gastropoda	Architaenioglossa	Viviparidae	Viviparus	species
+893	Radix peregra	Animalia	Mollusca	Gastropoda	Pulmonata	Lymnaeidae	Radix	species
+894	Stagnicola palustris	Animalia	Mollusca	Gastropoda	Pulmonata	Lymnaeidae	Stagnicola	species
+895	Physella acuta	Animalia	Mollusca	Gastropoda	Pulmonata	Physidae	Physella	species
+896	Hydrobia ulvae	Animalia	Mollusca	Gastropoda	Neotaenioglossa	Hydrobiidae	Hydrobia	species
+897	Hippeutis complanatus	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Hippeutis	species
+898	Gyraulus albus	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Gyraulus	species
+899	Galba truncatula	Animalia	Mollusca	Gastropoda	Pulmonata	Lymnaeidae	Galba	species
+900	Bithynia leachii	Animalia	Mollusca	Gastropoda	Neotaenioglossa	Bithyniidae	Bithynia	species
+901	Bithynia tentaculata	Animalia	Mollusca	Gastropoda	Neotaenioglossa	Bithyniidae	Bithynia	species
+902	Bivalvia	Animalia	Mollusca	Bivalvia				class
+903	Gastropoda	Animalia	Mollusca	Gastropoda				class
+905	Hydrobia ventrosa	Animalia	Mollusca	Gastropoda	Neotaenioglossa	Hydrobiidae	Hydrobia	species
+906	Myotis myotis	Animalia	Chordata	Mammalia	Chiroptera	Vespertilionidae	Myotis	species
+907	Cerastoderma glaucum	Animalia	Mollusca	Bivalvia	Veneroida	Cardiidae	Cerastoderma	species
+908	Salamandridae	Animalia	Chordata	Amphibia	Caudata	Salamandridae		family
+910	Bithynia	Animalia	Mollusca	Gastropoda	Neotaenioglossa	Bithyniidae	Bithynia	genus
+911	Sphaeriidae	Animalia	Mollusca	Bivalvia	Veneroida	Sphaeriidae		family
+912	Radix auricularia	Animalia	Mollusca	Gastropoda	Pulmonata	Lymnaeidae	Radix	species
+913	Radix	Animalia	Mollusca	Gastropoda	Pulmonata	Lymnaeidae	Radix	genus
+914	Pseudunio auricularia	Animalia	Mollusca	Bivalvia	Unionoida	Margaritiferidae	Pseudunio	species
+916	Carychium minimum	Animalia	Mollusca	Gastropoda	Basommatophora	Ellobiidae	Carychium	species
+917	Cecilioides acicula	Animalia	Mollusca	Gastropoda	Stylommatophora	Ferussaciidae	Cecilioides	species
+918	Columella	Animalia	Mollusca	Gastropoda	Stylommatophora	Vertiginidae	Columella	genus
+919	Euconulus fulvus	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicarionidae	Euconulus	species
+920	Helicella itala	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helicella	species
+921	Balea biplicata	Animalia	Mollusca	Gastropoda	Stylommatophora	Clausiliidae	Balea	species
+922	Bradybaena fruticum	Animalia	Mollusca	Gastropoda	Stylommatophora	Bradybaenidae	Bradybaena	species
+923	Echinoidea	Animalia	Echinodermata	Echinoidea				class
+924	Echinocardium cordatum	Animalia	Echinodermata	Echinoidea	Spantagoida	Echinothuridae	Echinocardium	species
+927	Ena obscura	Animalia	Mollusca	Gastropoda	Stylommatophora	Enidae	Ena	species
+928	Retusa obtusa	Animalia	Mollusca	Gastropoda	Bullomorpha	Retusidae	Retusa	species
+929	Succineidae	Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae		family
+930	Succinella oblonga	Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae	Succinella	species
+931	Vitrina	Animalia	Mollusca	Gastropoda	Stylommatophora	Vitrinidae	Vitrina	genus
+932	Pomatias elegans	Animalia	Mollusca	Gastropoda	Mesogastropoda	Pomatiasidae	Pomatias	species
+933	Polychaeta	Animalia	Annelida	Polychaeta				class
+936	Bryozoa	Animalia	Mollusca	Bryozoa				class
+937	Limacidae	Animalia	Mollusca	Gastropoda	Stylommatophora	Limacidae		family
+938	Oxyloma elegans	Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae	Oxyloma	species
+939	Oxyloma	Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae	Oxyloma	genus
+940	Vertigo pygmaea	Animalia	Mollusca	Gastropoda	Stylommatophora	Vertiginidae	Vertigo	species
+941	Vertigo angustior	Animalia	Mollusca	Gastropoda	Stylommatophora	Vertiginidae	Vertigo	species
+942	Vertigo	Animalia	Mollusca	Gastropoda	Stylommatophora	Vertiginidae	Vertigo	genus
+943	Vertigo antivertigo	Animalia	Mollusca	Gastropoda	Stylommatophora	Vertiginidae	Vertigo	species
+944	Vitrina pellucida	Animalia	Mollusca	Gastropoda	Stylommatophora	Vitrinidae	Vitrina	species
+948	Balaenopteridae	Animalia	Chordata	Mammalia	Cetacea	Balaenopteridae		family
+949	Callista chione	Animalia	Mollusca	Bivalvia	Veneroida	Veneridae	Callista	species
+950	Haliotis tuberculata	Animalia	Mollusca	Gastropoda	Archaeogastropoda	Haliotidae	Haliotis	species
+951	Tellina pusilla	Animalia	Mollusca	Bivalvia	Veneroida	Tellinidae	Tellina	species
+952	Nucula nucleus	Animalia	Mollusca	Bivalvia	Nuculoida	Nuculidae	Nucula	species
+953	Naticidae	Animalia	Mollusca	Gastropoda	Mesogastropoda	Naticidae		family
+954	Balanus balanoides	Animalia	Arthropoda	Crustacea	Thoracica	Balanidae	Balanus	species
+955	Balanus	Animalia	Arthropoda	Crustacea	Thoracica	Balanidae	Balanus	genus
+956	Abra tenuis	Animalia	Mollusca	Bivalvia	Veneroida	Semelidae	Abra	species
+957	Columella edentula	Animalia	Mollusca	Gastropoda	Stylommatophora	Vertiginidae	Columella	species
+958	Sepia	Animalia	Mollusca	Cephalopoda	Sepiida	Sepiidae	Sepia	genus
+959	Sepia officinalis	Animalia	Mollusca	Cephalopoda	Sepiida	Sepiidae	Sepia	species
+960	Odostomia unidentata	Animalia	Mollusca	Gastropoda	Bullomorpha	Pyramidellidae	Odostomia	species
+961	Odostomia	Animalia	Mollusca	Gastropoda	Bullomorpha	Pyramidellidae	Odostomia	genus
+962	Ostracoda	Animalia	Arthropoda	Ostracoda				class
+963	Acanthinula aculeata	Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	Acanthinula	species
+964	Aegopinella nitidula	Animalia	Mollusca	Gastropoda	Stylommatophora	Vitrinidae	Aegopinella	species
+965	Chrysallida	Animalia	Mollusca	Gastropoda	Bullomorpha	Pyramidellidae	Chrysallida	genus
+966	Cypraeidae	Animalia	Mollusca	Gastropoda	Mesogastropoda	Cypraeidae		family
+967	Cypraea pantherina	Animalia	Mollusca	Gastropoda	Mesogastropoda	Cypraeidae	Cypraea	species
+968	Cypraea	Animalia	Mollusca	Gastropoda	Mesogastropoda	Cypraeidae	Cypraea	genus
+969	Epilepton clarkiae	Animalia	Mollusca	Bivalvia	Veneroida	Neoleptonidae	Epilepton	species
+970	Ophiuroidea	Animalia	Echinodermata	Ophiuroidea				class
+971	Helicodonta obvoluta	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Helicodonta	species
+972	Kellia suborbicularis	Animalia	Mollusca	Bivalvia	Veneroida	Kelliidae	Kellia	species
+973	Hydrozoa	Animalia	Cnidaria	Hydrozoa				class
+974	Porifera	Animalia	Porifera	Demospongiae				class
+975	Alopias vulpinus	Animalia	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Alopias	species
+976	Chondrichthyes	Animalia	Chordata	Chondrichthyes				class
+977	Aspitrigla cuculus	Animalia	Chordata	Osteichthyes	Scorpaeniformes	Triglidae	Aspitrigla	species
+978	Molva dypterygia	Animalia	Chordata	Osteichthyes	Gadiformes	Gadidae	Molva	species
+979	Bothidae	Animalia	Chordata	Osteichthyes	Pleuronectiformes	Bothidae		family
+980	Sphyraena	Animalia	Chordata	Osteichthyes	Perciformes	Sphyraenidae	Sphyraena	genus
+982	Vallonia costata	Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	Vallonia	species
+983	Hirudinea	Animalia	Annelida	Hirudinea				class
+984	Ameronothrus schneideri	Animalia	Arthropoda	Acari	Oribatida	Ameronothridae	Ameronothrus	species
+985	Analgesidae	Animalia	Arthropoda	Acari	Acaridida	Analgesidae		family
+986	Ceratoppia bipilis	Animalia	Arthropoda	Acari	Oribatida	Metrioppiidae	Ceratoppia	species
+987	Chamobates incisus	Animalia	Arthropoda	Acari	Oribatida	Chamobatidae	Chamobates	species
+989	Dinychus carinatus	Animalia	Arthropoda	Acari	Uropodina	Urodinychidae	Dinychus	species
+990	Limnozetes sphagni	Animalia	Arthropoda	Acari	Oribatida	Limnozetidae	Limnozetes	species
+991	Metabelba papillipes	Animalia	Arthropoda	Acari	Oribatida	Belbidae	Metabelba	species
+992	Oppia ornata	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Oppia	species
+993	Pachylaelaps	Animalia	Arthropoda	Acari	Gamasina	Macrochelidae	Pachylaelaps	genus
+995	Pediculus humanus	Animalia	Arthropoda	Insecta	Anoplura	Pediculidae	Pediculus	species
+996	Pulex irritans	Animalia	Arthropoda	Insecta	Siphonaptera	Pulicidae	Pulex	species
+997	Rhodacarellus silesiacus	Animalia	Arthropoda	Acari	Gamasina	Rhodacaridae	Rhodacarellus	species
+998	Uropoda baloghi	Animalia	Arthropoda	Acari	Uropodina	Uropodidae	Uropoda	species
+999	Siphonaptera	Animalia	Arthropoda	Insecta	Siphonaptera			order
+1000	Anoplura	Animalia	Arthropoda	Insecta	Anoplura			order
+1001	Achipteria	Animalia	Arthropoda	Acari	Oribatida	Achipteriidae	Achipteria	genus
+1002	Ceratozetella thienemanni	Animalia	Arthropoda	Acari	Oribatida	Ceratozetidae	Ceratozetella	species
+1003	Eulaelaps stabularis	Animalia	Arthropoda	Acari	Gamasina	Dermanyssidae	Eulaelaps	species
+1004	Halolaelaps sculpturatus	Animalia	Arthropoda	Acari	Gamasina	Ascidae	Halolaelaps	species
+1005	Halolaelaps	Animalia	Arthropoda	Acari	Gamasina	Ascidae	Halolaelaps	genus
+1006	Hypoaspis nolli	Animalia	Arthropoda	Acari	Gamasina	Dermanyssidae	Hypoaspis	species
+1007	Macrocheles subbadius	Animalia	Arthropoda	Acari	Gamasina	Macrochelidae	Macrocheles	species
+1008	Metabelba sphagni	Animalia	Arthropoda	Acari	Oribatida	Belbidae	Metabelba	species
+1009	Ophidiotrichus tectus	Animalia	Arthropoda	Acari	Oribatida	Oribatellidae	Ophidiotrichus	species
+1010	Oppiella uliginosa	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Oppiella	species
+1011	Oppiella	Animalia	Arthropoda	Acari	Oribatida	Oppiidae	Oppiella	genus
+1012	Phauloppia saxicola	Animalia	Arthropoda	Acari	Oribatida	Oribatulidae	Phauloppia	species
+1013	Cancer pagurus	Animalia	Arthropoda	Crustacea	Decapoda	Cancridae	Cancer	species
+1014	Carcinus maenas	Animalia	Arthropoda	Crustacea	Decapoda	Portunidae	Carcinus	species
+1015	Eupagurus bernhardus	Animalia	Arthropoda	Crustacea	Decapoda	Paguridae	Eupagurus	species
+1016	Homarus gammarus	Animalia	Arthropoda	Crustacea	Decapoda	Homaridae	Homarus	species
+1017	Arianta arbustorum	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Arianta	species
+1018	Arachnida	Animalia	Arthropoda	Arachnida				class
+1019	Araneae	Animalia	Arthropoda	Arachnida	Araneae			order
+1020	Coleoptera	Animalia	Arthropoda	Insecta	Coleoptera			order
+1021	Damalinia ovis	Animalia	Arthropoda	Insecta	Mallophaga	Trichodectidae	Damalinia	species
+1022	Damalinia	Animalia	Arthropoda	Insecta	Mallophaga	Trichodectidae	Damalinia	genus
+1023	Diptera	Animalia	Arthropoda	Insecta	Diptera			order
+1024	Pulicidae	Animalia	Arthropoda	Insecta	Siphonaptera	Pulicidae		family
+1025	Balanus improvisus	Animalia	Arthropoda	Crustacea	Thoracica	Balanidae	Balanus	species
+1026	Cetopirus complanatus	Animalia	Arthropoda	Crustacea	Thoracica	Lepadidae	Cetopirus	species
+1029	Pluvialis squatarola	Animalia	Chordata	Aves	Charadriiformes	Charadriidae	Pluvialis	species
+1030	Sylvia	Animalia	Chordata	Aves	Passeriformes	Muscicapidae	Sylvia	genus
+1034	Gasterosteidae	Animalia	Chordata	Osteichthyes	Gasterosteiformes	Gasterosteidae		family
+1036	Mercuria confusa	Animalia	Mollusca	Gastropoda	Neotaenioglossa	Hydrobiidae	Mercuria	species
+1037	Musculium lacustre	Animalia	Mollusca	Gastropoda	Veneroida	Sphaeriidae	Musculium	species
+1038	Pseudotrichia rubiginosa	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	Pseudotrichia	species
+1040	Stercorarius parasiticus	Animalia	Chordata	Aves	Charadriiformes	Stercorariidae	Stercorarius	species
+1041	Larus canus	Animalia	Chordata	Aves	Charadriiformes	Laridae	Larus	species
+1042	Larus hyperboreus	Animalia	Chordata	Aves	Charadriiformes	Laridae	Larus	species
+1044	Tellinidae	Animalia	Mollusca	Bivalvia	Veneroida	Tellinidae		family
+1046	Ophiura	Animalia	Echinodermata	Echinodermata	Ophiurida	Ophiuridae	Ophiura	genus
+1047	Ctenocephalides canis	Animalia	Arthropoda	Insecta	Siphonaptera	Pulicidae	Ctenocephalides	species
+1048	Ctenocephalides felis	Animalia	Arthropoda	Insecta	Siphonaptera	Pulicidae	Ctenocephalides	species
+1052	Ardea purpurea	Animalia	Chordata	Aves	Ciconiiformes	Ardeidae	Ardea	species
+1053	Porzana parva	Animalia	Chordata	Aves	Galliformes	Phasianidae	Porzana	species
+1054	Orcinus orca	Animalia	Chordata	Mammalia	Cetacea	Delphinidae	Orcinus	species
+1055	Columba oenas	Animalia	Chordata	Aves	Columbiformes	Columbidae	Columba	species
+1056	Streptopelia turtur	Animalia	Chordata	Aves	Columbiformes	Columbidae	Streptopelia	species
+1057	Hippopotamus	Animalia	Chordata	Mammalia	Artiodactyla	Hippopotamidae	Hippopotamus	genus
+1060	Cypraea tigris	Animalia	Mollusca	Gastropoda	Mesogastropoda	Cypraeidae	Cypraea	species
+1062	Milvus	Animalia	Chordata	Aves	Falconiformes	Accipitridae	Milvus	genus
+1063	Turdus iliacus	Animalia	Chordata	Aves	Passeriformes	Turdidae	Turdus	species
+1065	Hyperoodon ampullatus	Animalia	Chordata	Mammalia	Cetacea	Ziphiidae	Hyperoodon	species
+1066	Delichon urbica	Animalia	Chordata	Aves	Passeriformes	Hirundinidae	Delichon	species
+1067	Cavia porcellus	Animalia	Chordata	Mammalia	Rodentia	Caviidae	Cavia	species
+1068	Podiceps nigricollis	Animalia	Chordata	Aves	Podicipediformes	Podicipedidae	Podiceps	species
+1070	Rutilus	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Rutilus	genus
+1071	Abramis	Animalia	Chordata	Osteichthyes	Cypriniformes	Cyprinidae	Abramis	genus
+1072	Accipitriformes	Animalia	Chordata	Aves	Accipitriformes			order
+1074	Acidota	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Acidota	genus
+1075	Acipenser oxyrinchus	Animalia	Chordata	Actinopterygii	Acipenseriformes	Acipenseridae	Acipenser	species
+1076	Acritus nigricornis	Animalia	Arthropoda	Insecta	Coleoptera	Histeridae	Acritus	species
+1077	Acrotrichis	Animalia	Arthropoda	Insecta	Coleoptera	Ptiliidae	Acrotrichis	genus
+1078	Actidium boudieri	Animalia	Arthropoda	Insecta	Coleoptera	Ptiliidae	Actidium	species
+1079	Actinedida	Animalia	Arthropoda	Arachnida	Prostigmata			order
+1080	Acupalpus brunnipes	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Acupalpus	species
+1081	Agabus	Animalia	Arthropoda	Insecta	Coleoptera	Dytiscidae	Agabus	genus
+1082	Agonum thoreyi	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Agonum	species
+1083	Agriolimacidae	Animalia	Mollusca	Gastropoda	Pulmonata	Agriolimacidae		family
+1084	Agriotes lineatus	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae	Agriotes	species
+1085	Aleochara	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Aleochara	genus
+1086	Aleocharinae	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae		subfamily
+1087	Alosa	Animalia	Chordata	Actinopterygii	Clupeiformes	Clupeidae	Alosa	genus
+1088	Amara	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Amara	genus
+1089	Amara aenea	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Amara	species
+1090	Amara anthobia	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Amara	species
+1091	Amara bifrons	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Amara	species
+1092	Amara lunicollis	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Amara	species
+1093	Amara plebeja	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Amara	species
+1094	Amara similata	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Amara	species
+1095	Anacaena	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Anacaena	genus
+1096	Anachipteria latitecta	Animalia	Arthropoda	Arachnida	Sarcoptiformes	Achipteriidae	Anachipteria	species
+1097	Anisodactylus binotatus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Anisodactylus	species
+1099	Anobiidae	Animalia	Arthropoda	Insecta	Coleoptera	Anobiidae		family
+1100	Anobium punctatum	Animalia	Arthropoda	Insecta	Coleoptera	Anobiidae	Anobium	species
+1102	Anotylus nitidulus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Anotylus	species
+1103	Anotylus rugosus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Anotylus	species
+1104	Anthicidae	Animalia	Arthropoda	Insecta	Coleoptera	Anthicidae		family
+1105	Anthicus antherinus	Animalia	Arthropoda	Insecta	Coleoptera	Anthicidae	Anthicus	species
+1106	Anthicus gracilis	Animalia	Arthropoda	Insecta	Coleoptera	Anthicidae	Anthicus	species
+1107	Anthribidae	Animalia	Arthropoda	Insecta	Coleoptera	Anthribidae		family
+1108	Aphodius	Animalia	Arthropoda	Insecta	Coleoptera	Scarabaeidae	Aphodius	genus
+1109	Aphodius fimetarius	Animalia	Arthropoda	Insecta	Coleoptera	Scarabaeidae	Aphodius	species
+1110	Aphodius plagiatus	Animalia	Arthropoda	Insecta	Coleoptera	Scarabaeidae	Aphodius	species
+1111	Apion	Animalia	Arthropoda	Insecta	Coleoptera	Brentidae	Apion	genus
+1112	Apion curtirostre	Animalia	Arthropoda	Insecta	Coleoptera	Brentidae	Apion	species
+1113	Apionidae	Animalia	Arthropoda	Insecta	Coleoptera	Apionidae		family
+1114	Apis mellifica	Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	Apis	species
+1115	Apocrita	Animalia	Arthropoda	Insecta	Hymenoptera			suborder
+1116	Agonum fuliginosum	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Agonum	species
+1117	Agonum muelleri	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Agonum	species
+1118	Agonum ruficorne	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Agonum	species
+1119	Aquila chrysaetos	Animalia	Chordata	Aves	Accipitriformes	Accipitridae	Aquila	species
+1120	Arcella	Protozoa		Lobosa	Arcellinida	Arcellidae	Arcella	genus
+1122	Ascarididae	Animalia	Nematoda	Secernentea	Ascaridida	Ascarididae		family
+1123	Ascaris	Animalia	Nematoda	Secernentea	Ascaridida	Ascarididae	Ascaris	genus
+1124	Ascaris lumbricoides	Animalia	Nematoda	Secernentea	Ascaridida	Ascarididae	Ascaris	species
+1125	Astenus immaculatus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Astenus	species
+1126	Astigmata	Animalia	Arthropoda	Arachnida	Astigmata			cohort
+1127	Atomaria	Animalia	Arthropoda	Insecta	Coleoptera	Cryptophagidae	Atomaria	genus
+1128	Atomaria gutta	Animalia	Arthropoda	Insecta	Coleoptera	Cryptophagidae	Atomaria	species
+1129	Atomaria ruficornis	Animalia	Arthropoda	Insecta	Coleoptera	Cryptophagidae	Atomaria	species
+1130	Attagenus pellio	Animalia	Arthropoda	Insecta	Coleoptera	Dermestidae	Attagenus	species
+1131	Bagous lutulosus	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Bagous	species
+1132	Bembidion varium	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Bembidion	species
+1133	Bembidion	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Bembidion	genus
+1134	Bembidion assimile	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Bembidion	species
+1135	Bembidion fumigatum	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Bembidion	species
+1136	Bembidion minimum	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Bembidion	species
+1137	Bembidion properans	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Bembidion	species
+1138	Bembidion tenellum	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Bembidion	species
+1139	Bembidion tetracolum	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Bembidion	species
+1140	Bibionidae	Animalia	Arthropoda	Insecta	Diptera	Bibionidae		family
+1141	Bibloplectus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Bibloplectus	genus
+1142	Bison	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bison	genus
+1144	Bledius germanicus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Bledius	species
+1145	Bledius spectabilis	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Bledius	species
+1146	Bolinus brandaris	Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	Bolinus	species
+1147	Bos	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	genus
+1148	Bothriophorus atomus	Animalia	Arthropoda	Insecta	Coleoptera	Limnichidae	Bothriophorus	species
+1149	Bovidae	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae		family
+1150	Brachycera	Animalia	Arthropoda	Insecta	Diptera			suborder
+1152	Brachygluta	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Brachygluta	genus
+1153	Brachytarsus nebulosus	Animalia	Arthropoda	Insecta	Coleoptera	Anthribidae	Brachytarsus	species
+1154	Brachyura	Animalia	Arthropoda	Malacostraca	Decapoda			infraorder
+1155	Bradycellus ruficollis	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Bradycellus	species
+1156	Bradycellus verbasci	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Bradycellus	species
+1157	Bryaxis	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Bryaxis	genus
+1158	Bryaxis bulbifer	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Bryaxis	species
+1159	Bryaxis puncticollis	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Bryaxis	species
+1160	Bufonidae	Animalia	Chordata	Amphibia	Anura	Bufonidae		family
+1161	Byrrhidae	Animalia	Arthropoda	Insecta	Coleoptera	Byrrhidae		family
+1164	Bythinus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Bythinus	genus
+1165	Calidris minuta	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Calidris	species
+1166	Calidris temminckii	Animalia	Chordata	Aves	Charadriiformes	Scolopacidae	Calidris	species
+1167	Canis	Animalia	Chordata	Mammalia	Carnivora	Canidae	Canis	genus
+1168	Carabidae	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae		family
+1169	Carabus nemoralis	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Carabus	species
+1170	Carabus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Carabus	genus
+1171	Carabus auratus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Carabus	species
+1172	Carabus granulatus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Carabus	species
+1176	Carpelimus bilineatus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Carpelimus	species
+1177	Carpelimus corticinus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Carpelimus	species
+1178	Carpelimus elongatulus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Carpelimus	species
+1179	Carpelimus foveolatus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Carpelimus	species
+1180	Carpelimus gracilis	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Carpelimus	species
+1181	Carpelimus halophilus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Carpelimus	species
+1182	Carpelimus pusillus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Carpelimus	species
+1183	Carpelimus schneideri	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Carpelimus	species
+1184	Carpelimus subtilis	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Carpelimus	species
+1185	Cartodere constricta	Animalia	Arthropoda	Insecta	Coleoptera	Latridiidae	Cartodere	species
+1186	Cassida	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Cassida	genus
+1189	Cercyon	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Cercyon	genus
+1190	Cercyon analis	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Cercyon	species
+1191	Cercyon convexiusculus	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Cercyon	species
+1192	Cercyon granarius	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Cercyon	species
+1193	Cercyon marinus	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Cercyon	species
+1194	Cercyon sternalis	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Cercyon	species
+1195	Cercyon terminatus	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Cercyon	species
+1196	Cercyon tristis	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Cercyon	species
+1197	Chaetarthria seminulum	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Chaetarthria	species
+1198	Chaetocnema	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Chaetocnema	genus
+1199	Chaetocnema concinna	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Chaetocnema	species
+1200	Chrysomelidae	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae		family
+1201	Cicadellidae	Animalia	Arthropoda	Insecta	Hemiptera	Cicadellidae		family
+1202	Cladocera	Animalia	Arthropoda	Branchiopoda	Cladocera			order
+1203	Clambidae	Animalia	Arthropoda	Insecta	Coleoptera	Clambidae		family
+1204	Clambus minutus	Animalia	Arthropoda	Insecta	Coleoptera	Clambidae	Clambus	species
+1205	Clambus pubescens	Animalia	Arthropoda	Insecta	Coleoptera	Clambidae	Clambus	species
+1206	Cliona celata	Animalia	Porifera	Demospongiae	Hadromerida	Clionidae	Cliona	species
+1207	Clivina	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Clivina	genus
+1208	Clivina collaris	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Clivina	species
+1209	Clivina fossor	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Clivina	species
+1210	Clupea	Animalia	Chordata	Actinopterygii	Clupeiformes	Clupeidae	Clupea	genus
+1211	Coccidula rufa	Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	Coccidula	species
+1212	Coccinellidae	Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae		family
+1213	Coelostoma orbiculare	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Coelostoma	species
+1214	Coleophora	Animalia	Arthropoda	Insecta	Lepidoptera	Coleophoridae	Coleophora	genus
+1215	Collembola	Animalia	Arthropoda	Entognatha	Collembola			order
+1216	Circus cyaneus	Animalia	Chordata	Aves	Accipitriformes	Accipitridae	Circus	species
+1217	Conopeum reticulum	Animalia	Ectoprocta	Gymnolaemata	Cheilostomatida	Electridae	Conopeum	species
+1218	Conus mediterraneus	Animalia	Mollusca	Gastropoda	Neogastropoda	Conidae	Conus	species
+1220	Corticariinae	Animalia	Arthropoda	Insecta	Coleoptera	Latridiidae		subfamily
+1221	Corvus cornix	Animalia	Chordata	Aves	Passeriformes	Corvidae	Corvus	species
+1222	Corylophidae	Animalia	Arthropoda	Insecta	Coleoptera	Corylophidae		family
+1223	Corylophus cassidoides	Animalia	Arthropoda	Insecta	Coleoptera	Corylophidae	Corylophus	species
+1225	Crassostrea gigas	Animalia	Mollusca	Bivalvia	Pterioida	Ostreidae	Crassostrea	species
+1226	Creophilus maxillosus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Creophilus	species
+1227	Protophormia terraenovae	Animalia	Arthropoda	Insecta	Diptera	Calliphoridae	Protophormia	species
+1228	Cryptophagidae	Animalia	Arthropoda	Insecta	Coleoptera	Cryptophagidae		family
+1229	Cryptophagus	Animalia	Arthropoda	Insecta	Coleoptera	Cryptophagidae	Cryptophagus	genus
+1231	Curculionidae	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae		family
+1233	Cyclorrhapha	Animalia	Arthropoda	Insecta	Diptera	Cyclorrapha		unranked
+1234	Cymbiodyta marginella	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Cymbiodyta	species
+1235	Cyphon	Animalia	Arthropoda	Insecta	Coleoptera	Scirtidae	Cyphon	genus
+1236	Cypraea moneta	Animalia	Mollusca	Gastropoda	Neotaenioglossa	Cypraeidae	Cypraea	species
+1237	Daphnia	Animalia	Arthropoda	Branchiopoda	Diplostraca	Daphniidae	Daphnia	genus
+1238	Diphyllobothrium latum	Animalia	Platyhelminthes	Cestoda	Pseudophyllidea	Diphyllobothriidae	Diphyllobothrium	species
+1239	Diplopoda	Animalia	Arthropoda	Diplopoda				class
+1240	Dromius linearis	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Dromius	species
+1241	Dromius longiceps	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Dromius	species
+1242	Drusilla canaliculata	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Drusilla	species
+1243	Dyschirius	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Dyschirius	genus
+1244	Dyschirius globosus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Dyschirius	species
+1245	Dyschirius luedersi	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Dyschirius	species
+1246	Dytiscidae	Animalia	Arthropoda	Insecta	Coleoptera	Dytiscidae		family
+1247	Echinocyamus pusillus	Animalia	Echinodermata	Echinoidea	Clypeasteroida	Fibulariidae	Echinocyamus	species
+1248	Elasmobranchii	Animalia	Chordata	Chondrichthyes				subclass
+1249	Elateridae	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae		family
+1250	Electra pilosa	Animalia	Ectoprocta	Gymnolaemata	Cheilostomatida	Electridae	Electra	species
+1251	Emberiza schoeniclus	Animalia	Chordata	Aves	Passeriformes	Emberizidae	Emberiza	species
+1252	Emys	Animalia	Chordata	Reptilia	Chelonii	Emydidae	Emys	genus
+1253	Enicmus histrio	Animalia	Arthropoda	Insecta	Coleoptera	Latridiidae	Enicmus	species
+1254	Enicmus transversus	Animalia	Arthropoda	Insecta	Coleoptera	Latridiidae	Enicmus	species
+1255	Enochrus	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Enochrus	genus
+1256	Enoicyla pusilla	Animalia	Arthropoda	Insecta	Trichoptera	Limnephilidae	Enoicyla	species
+1257	Epitrix pubescens	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Epitrix	species
+1258	Eporibatula rauschenensis	Animalia	Arthropoda	Arachnida	Oribatida	Eremaeidae	Eporibatula	species
+1259	Equus ferus	Animalia	Chordata	Mammalia	Perissodactyla	Equidae	Equus	species
+1260	Equus ferus caballus	Animalia	Chordata	Mammalia	Perissodactyla	Equidae	Equus	subspecies
+1261	Eremaeus oblongus	Animalia	Arthropoda	Arachnida	Oribatida	Eremaeidae	Eremaeus	species
+1262	Erichsonius cinerascens	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Erichsonius	species
+1263	Euaesthetus bipunctatus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Euaesthetus	species
+1264	Euaesthetus laeviusculus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Euaesthetus	species
+1265	Euconnus	Animalia	Arthropoda	Insecta	Coleoptera	Scydmaenidae	Euconnus	genus
+1268	Euthia	Animalia	Arthropoda	Insecta	Coleoptera	Scydmaenidae	Euthia	genus
+1269	Euthia scydmaenoides	Animalia	Arthropoda	Insecta	Coleoptera	Scydmaenidae	Euthia	species
+1270	Eutrigla	Animalia	Chordata	Actinopterygii	Scorpaeniformes	Triglidae	Eutrigla	genus
+1271	Falagria sulcatula	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Falagria	species
+1272	Falconiformes	Animalia	Chordata	Aves	Falconiformes			order
+1273	Formicidae	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae		family
+1274	Gabrius pennatus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Gabrius	species
+1276	Gamasida	Animalia	Arthropoda	Arachnida	Mesostigmata			superfamily
+1277	Glycyphagidae	Animalia	Arthropoda	Arachnida	Astigmata	Glycyphagidae		family
+1278	Glycyphagus destructor	Animalia	Arthropoda	Arachnida	Astigmata	Glycyphagidae	Glycyphagus	species
+1279	Graptodytes	Animalia	Arthropoda	Insecta	Coleoptera	Dytiscidae	Graptodytes	genus
+1280	Gyrohypnus fracticornis	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Gyrohypnus	species
+1281	Haematopinus	Animalia	Arthropoda	Insecta	Phthiraptera	Haematopinidae	Haematopinus	genus
+1282	Haematopinus eurysternus	Animalia	Arthropoda	Insecta	Phthiraptera	Haematopinidae	Haematopinus	species
+1283	Harpalus rufipes	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Harpalus	species
+1284	Helophorus	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Helophorus	genus
+1285	Heteroceridae	Animalia	Arthropoda	Insecta	Coleoptera	Heteroceridae		family
+1286	Heterocerus flexuosus	Animalia	Arthropoda	Insecta	Coleoptera	Heteroceridae	Heterocerus	species
+1287	Heterocerus obsoletus	Animalia	Arthropoda	Insecta	Coleoptera	Heteroceridae	Heterocerus	species
+1288	Heteroptera	Animalia	Arthropoda	Insecta	Hemiptera			suborder
+1289	Hister bissexstriatus	Animalia	Arthropoda	Insecta	Coleoptera	Histeridae	Hister	species
+1290	Hister impressus	Animalia	Arthropoda	Insecta	Coleoptera	Histeridae	Hister	species
+1291	Hister merdarius	Animalia	Arthropoda	Insecta	Coleoptera	Histeridae	Hister	species
+1292	Histeridae	Animalia	Arthropoda	Insecta	Coleoptera	Histeridae		family
+1293	Hydractinia echinata	Animalia	Cnidaria	Hydrozoa	Filifera	Hydractiniidae	Hydractinia	species
+1294	Hydraenidae	Animalia	Arthropoda	Insecta	Coleoptera	Hydraenidae		family
+1296	Hydrobius fuscipes	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Hydrobius	species
+1297	Hydrochus brevis	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Hydrochus	species
+1298	Hydrophilidae	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae		family
+1299	Hydroporus	Animalia	Arthropoda	Insecta	Coleoptera	Dytiscidae	Hydroporus	genus
+1300	Hymenoptera	Animalia	Arthropoda	Insecta	Hymenoptera			order
+1301	Hypera postica	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Hypera	species
+1302	Hypera suspiciosa	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Hypera	species
+1303	Hypera venusta	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Hypera	species
+1305	Isopoda	Animalia	Arthropoda	Malacostraca	Isopoda			order
+1306	Lagomorpha	Animalia	Chordata	Mammalia	Lagomorpha			order
+1307	Lasioseius berlesei	Animalia	Arthropoda	Arachnida	Mesostigmata	Ascidae	Lasioseius	species
+1308	Lasioseius formosus	Animalia	Arthropoda	Arachnida	Mesostigmata	Ascidae	Lasioseius	species
+1309	Latridiidae	Animalia	Arthropoda	Insecta	Coleoptera	Latridiidae		family
+1310	Lathrobium	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Lathrobium	genus
+1311	Lathrobium longulum	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Lathrobium	species
+1313	Lema	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Lema	genus
+1314	Lepidoptera	Animalia	Arthropoda	Insecta	Lepidoptera			order
+1315	Leptacinus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Leptacinus	genus
+1316	Lesteva sicula heeri	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Lesteva	subspecies
+1317	Leuciscus	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	Leuciscus	genus
+1319	Limnobaris pilistriata	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Limnobaris	species
+1320	Linognathus	Animalia	Arthropoda	Insecta	Phthiraptera	Linognathidae	Linognathus	genus
+1321	Psocoptera	Animalia	Arthropoda	Insecta	Psocoptera			order
+1322	Lithocharis obsoleta	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Lithocharis	species
+1324	Longitarsus	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Longitarsus	genus
+1325	Loricera pilicornis	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Loricera	species
+1326	Lymnaeidae	Animalia	Mollusca	Gastropoda	Pulmonata	Lymnaeidae		family
+1328	Mammuthus	Animalia	Chordata	Mammalia	Proboscidea	Elephantidae	Mammuthus	genus
+1329	Mammuthus primigenius	Animalia	Chordata	Mammalia	Proboscidea	Elephantidae	Mammuthus	species
+1330	Megaloceros giganteus	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	Megaloceros	species
+1331	Megasternum obscurum	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Megasternum	species
+1332	Metopsia	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Metopsia	genus
+1333	Micrelus ericae	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Micrelus	species
+1334	Microcara testacea	Animalia	Arthropoda	Insecta	Coleoptera	Scirtidae	Microcara	species
+1335	Microptilium	Animalia	Arthropoda	Insecta	Coleoptera	Ptiliidae	Microptilium	genus
+1336	Monotoma	Animalia	Arthropoda	Insecta	Coleoptera	Monotomidae	Monotoma	genus
+1337	Monotoma brevicollis	Animalia	Arthropoda	Insecta	Coleoptera	Monotomidae	Monotoma	species
+1338	Monotoma spinicollis	Animalia	Arthropoda	Insecta	Coleoptera	Monotomidae	Monotoma	species
+1340	Mustela putorius furo	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Mustela	subspecies
+1341	Nanophyes marmoratus	Animalia	Arthropoda	Insecta	Coleoptera	Brentidae	Nanophyes	species
+1342	Nebria brevicollis	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Nebria	species
+1343	Nematocera	Animalia	Arthropoda	Insecta	Diptera			genus
+1344	Nematoda	Animalia	Nematoda			inet.		phylum
+1345	Nereis	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	Nereis	genus
+1346	Notaris scirpi	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Notaris	species
+1347	Notiophilus biguttatus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Notiophilus	species
+1348	Ochthebius	Animalia	Arthropoda	Insecta	Coleoptera	Hydraenidae	Ochthebius	genus
+1349	Ochthebius dilatatus	Animalia	Arthropoda	Insecta	Coleoptera	Hydraenidae	Ochthebius	species
+1350	Ochthebius marinus	Animalia	Arthropoda	Insecta	Coleoptera	Hydraenidae	Ochthebius	species
+1351	Ochthebius viridis	Animalia	Arthropoda	Insecta	Coleoptera	Hydraenidae	Ochthebius	species
+1352	Ochthephilum fracticorne	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Ochthephilum	species
+1353	Olibrus aeneus	Animalia	Arthropoda	Insecta	Coleoptera	Phalacridae	Olibrus	species
+1354	Olophrum piceum	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Olophrum	species
+1355	Omalium exiguum	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Omalium	species
+1356	Oniscidae	Animalia	Arthropoda	Malacostraca	Isopoda	Oniscidae		family
+1357	Onthophagus nuchicornis	Animalia	Arthropoda	Insecta	Coleoptera	Scarabaeidae	Onthophagus	species
+1358	Oodes helopioides	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Oodes	species
+1361	Ostrea	Animalia	Mollusca	Bivalvia	Ostreoida	Ostreidae	Ostrea	genus
+1362	Otiorhynchus sulcatus	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Otiorhynchus	species
+1363	Oulema	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Oulema	genus
+1365	Oxyomus sylvestris	Animalia	Arthropoda	Insecta	Coleoptera	Scarabaeidae	Oxyomus	species
+1366	Oxytelus sculptus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Oxytelus	species
+1367	Paederus riparius	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Paederus	species
+1368	Paracymus aeneus	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Paracymus	species
+1369	Parasitinae	Animalia	Arthropoda	Arachnida	Mesostigmata	Parasitidae		subfamily
+1370	Patrobus atrorufus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Patrobus	species
+1371	Phalacridae	Animalia	Arthropoda	Insecta	Coleoptera	Phalacridae		family
+1372	Phalacrocorax pygmeus	Animalia	Chordata	Aves	Pelecaniformes	Phalacrocoracidae	Phalacrocorax	species
+1373	Philonthus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Philonthus	genus
+1374	Philonthus punctus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Philonthus	species
+1375	Planorbis	Animalia	Mollusca	Gastropoda	Pulmonata	Planorbidae	Planorbis	genus
+1376	Plateumaris discolor	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Plateumaris	species
+1377	Plateumaris sericea	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Plateumaris	species
+1378	Pleuronectes	Animalia	Chordata	Actinopterygii	Pleuronectiformes	Pleuronectidae	Pleuronectes	genus
+1381	Polydora ciliata	Animalia	Annelida	Polychaeta	Spionida	Spionidae	Polydora	species
+1382	Pomatoceros triqueter	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	Pomatoceros	species
+1383	Pomatoschistus lozanoi	Animalia	Chordata	Osteichthyes	Perciformes	Gobiidae	Pomatoschistus	species
+1384	Porcellio scaber	Animalia	Arthropoda	Malacostraca	Isopoda	Porcellionidae	Porcellio	species
+1385	Pristonychus terricola	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pristonychus	species
+1386	Proboscidea	Animalia	Chordata	Mammalia	Proboscidea			order
+1388	Pselaphaulax dresdensis	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Pselaphaulax	species
+1389	Pselaphidae	Animalia	Arthropoda	Insecta	Coleoptera	Pselaphidae		family
+1390	Pselaphus heisei	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Pselaphus	species
+1391	Pseudoscorpiones	Animalia	Arthropoda	Arachnida	Pseudoscorpiones			order
+1392	Psyllidae	Animalia	Arthropoda	Insecta	Hemiptera	Psyllidae		family
+1393	Ptenidium	Animalia	Arthropoda	Insecta	Coleoptera	Ptiliidae	Ptenidium	genus
+1394	Ptenidium fuscicorne	Animalia	Arthropoda	Insecta	Coleoptera	Ptiliidae	Ptenidium	species
+1395	Ptenidium longicorne	Animalia	Arthropoda	Insecta	Coleoptera	Ptiliidae	Ptenidium	species
+1396	Ptenidium punctatum	Animalia	Arthropoda	Insecta	Coleoptera	Ptiliidae	Ptenidium	species
+1397	Ptenidium pusillum	Animalia	Arthropoda	Insecta	Coleoptera	Ptiliidae	Ptenidium	species
+1398	Pterostichus anthracinus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pterostichus	species
+1399	Pterostichus cupreus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pterostichus	species
+1400	Pterostichus diligens	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pterostichus	species
+1401	Pterostichus gracilis	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pterostichus	species
+1402	Pterostichus melanarius	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pterostichus	species
+1403	Pterostichus minor	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pterostichus	species
+1404	Pterostichus strenuus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pterostichus	species
+1405	Pterostichus vernalis	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pterostichus	species
+1406	Ptiliidae	Animalia	Arthropoda	Insecta	Coleoptera	Ptiliidae		family
+1407	Ptinella britannica	Animalia	Arthropoda	Insecta	Coleoptera	Ptiliidae	Ptinella	species
+1408	Ptinidae	Animalia	Arthropoda	Insecta	Coleoptera	Ptinidae		family
+1410	Raja miraletus	Animalia	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	species
+1411	Rhizophagidae	Animalia	Arthropoda	Insecta	Coleoptera	Rhizophagidae		family
+1412	Rhyncolus lignarius	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Rhyncolus	species
+1413	Rugilus orbiculatus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Rugilus	species
+1414	Rybaxis	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Rybaxis	genus
+1415	Rybaxis longicornis	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Rybaxis	species
+1416	Salmo	Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	Salmo	genus
+1417	Scarabaeidae	Animalia	Arthropoda	Insecta	Coleoptera	Scarabaeidae		family
+1420	Scirtidae	Animalia	Arthropoda	Insecta	Coleoptera	Scirtidae		family
+1421	Scopaeus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Scopaeus	genus
+1422	Scrupocellaria	Animalia	Ectoprocta	Gymnolaemata	Cheilostomatida	Candidae	Scrupocellaria	genus
+1425	Scydmaenidae	Animalia	Arthropoda	Insecta	Coleoptera	Scydmaenidae		family
+1426	Sepedophilus pedicularium	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Sepedophilus	species
+1427	Sepsidae	Animalia	Arthropoda	Insecta	Diptera	Sepsidae		family
+1428	Serpulidae	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae		family
+1429	Silpha	Animalia	Arthropoda	Insecta	Coleoptera	Silphidae	Silpha	genus
+1430	Simplocaria semistriata	Animalia	Arthropoda	Insecta	Coleoptera	Byrrhidae	Simplocaria	species
+1431	Sitona lineatus	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Sitona	species
+1432	Sitophilus granarius	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Sitophilus	species
+1433	Solenopotes capillatus	Animalia	Arthropoda	Insecta	Phthiraptera	Linognathidae	Solenopotes	species
+1434	Sphaeridium lunatum	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Sphaeridium	species
+1435	Sphaeridium scarabaeoides	Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	Sphaeridium	species
+1436	Spirorbis borealis	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	Spirorbis	species
+1437	Staphylinidae	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae		family
+1438	Staphylinus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Staphylinus	genus
+1439	Stegobium paniceum	Animalia	Arthropoda	Insecta	Coleoptera	Anobiidae	Stegobium	species
+1440	Stenichnus collaris	Animalia	Arthropoda	Insecta	Coleoptera	Scydmaenidae	Stenichnus	species
+1441	Stenus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Stenus	genus
+1442	Stilbus oblongus	Animalia	Arthropoda	Insecta	Coleoptera	Phalacridae	Stilbus	species
+1443	Stilbus testaceus	Animalia	Arthropoda	Insecta	Coleoptera	Phalacridae	Stilbus	species
+1444	Strigidae	Animalia	Chordata	Aves	Strigiformes	Strigidae		family
+1446	Syncalypta	Animalia	Arthropoda	Insecta	Coleoptera	Byrrhidae	Syncalypta	genus
+1447	Synuchus nivalis	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Synuchus	species
+1448	Tachinus corticinus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Tachinus	species
+1449	Tachyporus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Tachyporus	genus
+1450	Tanysphyrus lemnae	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Tanysphyrus	species
+1451	Thryogenes nereis	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Thryogenes	species
+1452	Trechus micros	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Trechus	species
+1453	Trichocellus cognatus	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Trichocellus	species
+1454	Trichoptera	Animalia	Arthropoda	Insecta	Trichoptera			order
+1457	Trichuris	Animalia	Nematoda	Adenophorea	Enoplida	Trichuridae	Trichuris	genus
+1458	Trichuris trichiura	Animalia	Nematoda	Adenophorea	Enoplida	Trichuridae	Trichuris	species
+1459	Trigla	Animalia	Chordata	Actinopterygii	Scorpaeniformes	Triglidae	Trigla	genus
+1460	Trissemus impressa	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Trissemus	species
+1461	Tychius picirostris	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Tychius	species
+1462	Tychus niger	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Tychus	species
+1464	Xantholinus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Xantholinus	genus
+1465	Xylodromus concinnus	Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	Xylodromus	species
+1466	Mustela putorius	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Mustela	species
+1467	Elephantidae	Animalia	Chordata	Mammalia	Proboscidea	Elephantidae		family
+1468	Chordata	Animalia	Chordata					phylum
+1469	Cygnus olor domesticus	Animalia	Chordata	Aves	Anseriformes	Anatidae	Cygnus	subspecies
+1470	Egretta garzetta	Animalia	Chordata	Aves	Pelecaniformes	Ardeidae	Egretta	species
+1471	Nucula nitidosa	Animalia	Mollusca	Bivalvia	Nuculoida	Nuculidae	Nucula	species
+1472	Carnivora	Animalia	Chordata	Mammalia	Carnivora			order
+1473	Chilopoda	Animalia	Arthropoda	Chilopoda				class
+1474	Enicmus	Animalia	Arthropoda	Insecta	Coleoptera	Latridiidae	Enicmus	genus
+1475	Felidae	Animalia	Chordata	Mammalia	Carnivora	Felidae		family
+1476	Phasianidae	Animalia	Chordata	Aves	Galliformes	Phasianidae		family
+1477	Serpula	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	Serpula	genus
+1478	Decapoda	Animalia	Arthropoda	Malacostraca	Decapoda			order
+1479	Latridius	Animalia	Arthropoda	Insecta	Coleoptera	Latridiidae	Latridius	genus
+1480	Pulmonata	Animalia	Mollusca	Gastropoda	Pulmonata			order
+1481	Squamata	Animalia	Chordata	Reptilia	Squamata			order
+1482	Nereididae	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae		family
+1483	Canidae	Animalia	Chordata	Mammalia	Carnivora	Canidae		family
+1484	Pleuronectiformes	Animalia	Chordata	Actinopterygii	Pleuronectiformes			order
+1485	Plateumaris	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Plateumaris	genus
+1486	Sorex	Animalia	Chordata	Mammalia	Insectivora	Soricidae	Sorex	genus
+1487	Pecten	Animalia	Mollusca	Bivalvia	Pectinoida	Pectinidae	Pecten	genus
+1491	Stercorarius pomarinus	Animalia	Chordata	Aves	Charadriiformes	Stercorariidae	Stercorarius	species
+1492	Stercorarius skua	Animalia	Chordata	Aves	Charadriiformes	Stercorariidae	Stercorarius	species
+1494	Thalasseus sandvicensis	Animalia	Chordata	Aves	Charadriiformes	Laridae	Thalasseus	species
+1501	Conus marmoreus	Animalia		Gastropoda	Neogastropoda	Conidae	Conus	species
+1502	Cypraea annulus	Animalia		Gastropoda	Neotaenioglossa	Cypraeidae	Cypraea	species
+1504	Acipenser	Animalia		Actinopterygii	Acipenseriformes	Acipenseridae	Acipenser	genus
+1507	Pisidium moitessierianum	Animalia		Bivalvia	Veneroida	Sphaeriidae	Pisidium	species
+1508	Cristatella mucedo	Animalia		Bryozoa	Plumatellida	Cristatellidae	Cristatella	species
+1510	Spongilla lacustris	Animalia		Demospongiae	Haplosclerida	Spongillidae	Spongilla	species
+1511	Lepidochitona cinerea	Animalia		Gastropoda	Chitonida	Tonicellidae	Lepidochitona	species
+1512	Peringia ulvae	Animalia		Gastropoda	Neotaenioglossa	Hydrobiidae	Peringia	species
+1513	Lagis koreni	Animalia		Polychaeta	Terebellida	Pectinariidae	Lagis	species
+1514	Foraminifera	Animalia		Foraminifera			indet	class
+1515	Bacillariophyceae	Animalia		Bacillariophyceae				class
+1517	Lumbricidae	Animalia		Clitellata	Opisthopora	Lumbricidae	Lumbricidae	family
+1526	Chlidonias niger	Animalia		Aves	Charadriiformes	Laridae	Chlidonias	species
+1527	Microtidae	Animalia	Chordata	Mammalia	Rodentia	Muridae		subfamily
+1528	Arvicolidae	Animalia	Chordata	Mammalia	Rodentia	Muridae		subfamily
+1530	Helicidae	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae		family
+1531	Lepus capensis	Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	Lepus	species
