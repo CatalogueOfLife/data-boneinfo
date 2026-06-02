@@ -1,4 +1,4 @@
-ID	kingdom	phylum	class	order	family	genus
+nameID	kingdom	phylum	class	order	family	genus
 1	Animalia	Chordata	Mammalia	Perissodactyla	Equidae	Equus
 2	Animalia	Chordata	Mammalia	Carnivora	Canidae	Canis
 3	Animalia	Chordata	Mammalia	Carnivora	Felidae	Felis
