@@ -1,5 +1,5 @@
-# data-template-coldp
-A template for [ChecklistBank](https://www.checklistbank.org) dataset repositories using the combined [ColDP format](https://github.com/CatalogueOfLife/coldp/blob/master/README.md).
+# boneinfo
+Archeological animal data from the Netherlands feeding into https://www.dev.checklistbank.org/dataset/310355
 
 ## Files
 The template uses the combined [NameUsage](https://github.com/CatalogueOfLife/coldp/blob/master/README.md#nameusage) file 
